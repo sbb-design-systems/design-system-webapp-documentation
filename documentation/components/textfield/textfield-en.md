@@ -25,7 +25,7 @@ The component has the following statuses:
 * Error
 
 ### 4.1 Standard
-![Image of the text field component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/textfield/images/textfield_default.png 'class: image')
+![Image of the text field component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/textfield/images/textfield_default.png 'class: image')
 
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318592/inspect)
@@ -38,7 +38,7 @@ The component has the following statuses:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/field)
 
 ### 4.2 Password entry
-![Image of the text field component in the password entry variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/textfield/images/textfield_password.png 'class: image')
+![Image of the text field component in the password entry variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/textfield/images/textfield_password.png 'class: image')
 * The entry field in the ‘password’ variant does not provide a ‘hinted’ status.
 
 #### Design specification

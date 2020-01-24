@@ -24,7 +24,7 @@ This variant has the following statuses:
 * Hover
 * On-Click/Dragged
 
-![Image of the chip component as an entry value](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/chip/images/chip_input.png 'class: image')
+![Image of the chip component as an entry value](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/chip/images/chip_input.png 'class: image')
 
 * The chips can be generated via ‘autocomplete’ selection or with free text depending on the case.
 
@@ -38,7 +38,7 @@ This variant has the following statuses:
 This variant has the following statuses:
 * Inactive
 
-![Image of the chip component for filtering](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/chip/images/chip_filter.png 'class: image')
+![Image of the chip component for filtering](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/chip/images/chip_filter.png 'class: image')
 
 * •	By clicking on a tag, the respective status toggles to the others and influences the filter result.
 

@@ -11,7 +11,7 @@
 
 ## 3. Variants
 ### 3.1 Standard
-![Image of the SBB logo](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/basics/brand/images/logo_default.png 'class: image')
+![Image of the SBB logo](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/brand/images/logo_default.png 'class: image')
 
 #### Design specification
 [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318787/inspect)

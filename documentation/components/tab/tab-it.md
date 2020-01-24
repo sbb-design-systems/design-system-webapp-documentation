@@ -23,7 +23,7 @@ Die Komponente hat folgende Zustände:
 * Disabled
 
 ### 4.1 Standard
-![Darstellung der Komponente Tab](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/tab/images/tab_default.png 'class: image')
+![Darstellung der Komponente Tab](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/tab/images/tab_default.png 'class: image')
 
 #### Design Spezifikation
 * [Active](https://sbb.invisionapp.com/d/main#/console/17140415/355318571/inspect)

@@ -12,25 +12,25 @@
 
 ## 4. Ausprägungen
 ### 4.1 Thin
-![Darstellung des Dividers Thin](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/basics/divider/images/divider_thin.png 'class: image')
+![Darstellung des Dividers Thin](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/divider/images/divider_thin.png 'class: image')
 
 #### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318783/inspect)
 
 ### 4.2 Small 
-![Darstellung des Dividers Small](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/basics/divider/images/divider_small.png 'class: image')
+![Darstellung des Dividers Small](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/divider/images/divider_small.png 'class: image')
 
 #### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318784/inspect)
 
 ### 4.3 Medium
-![Darstellung des Dividers Medium](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/basics/divider/images/divider_medium.png 'class: image')
+![Darstellung des Dividers Medium](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/divider/images/divider_medium.png 'class: image')
 
 #### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318785/inspect)
 
 ### 4.4 Big
-![Darstellung des Dividers Big](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/basics/divider/images/divider_big.png 'class: image')
+![Darstellung des Dividers Big](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/divider/images/divider_big.png 'class: image')
 
 #### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318786/inspect)

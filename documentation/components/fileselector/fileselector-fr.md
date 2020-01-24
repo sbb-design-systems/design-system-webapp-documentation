@@ -21,7 +21,7 @@ Die Komponente hat folgende Zustände:
 * Disabled
 
 ### 4.1 Standard
-![Darstellung der Komponente Dateiauswahl](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/fileselector/images/fileselector_default.png 'class: image')
+![Darstellung der Komponente Dateiauswahl](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/fileselector/images/fileselector_default.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318445/inspect)

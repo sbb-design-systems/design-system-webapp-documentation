@@ -20,7 +20,7 @@ The module has the following statuses:
 * Default
 
 ## 4.1 Standard
-![Image of the dialog module](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/dialog/images/dialog_default.png 'class: image')
+![Image of the dialog module](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/modules/dialog/images/dialog_default.png 'class: image')
 
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318666/inspect)

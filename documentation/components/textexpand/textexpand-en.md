@@ -22,7 +22,7 @@ The component has the following statuses:
 * Expanded
 
 ### 4.1 Standard
-![Image of the text expand component](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/textexpand/images/textexpand_default.png 'class: image')
+![Image of the text expand component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/textexpand/images/textexpand_default.png 'class: image')
 
 #### Design specification
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/355318590/inspect)

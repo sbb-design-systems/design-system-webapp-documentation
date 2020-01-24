@@ -19,31 +19,31 @@ The component has the following statuses:
 * Default
 
 ### 4.1 Confirmation
-![Image of the message component in the confirmation variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/notification/images/notification_confirmation.png 'class: image')
+![Image of the message component in the confirmation variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/notification/images/notification_confirmation.png 'class: image')
 
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318543/inspect)
 
 ### 4.2 Notification
-![Image of the message component in the notification variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/notification/images/notification_information.png 'class: image')
+![Image of the message component in the notification variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/notification/images/notification_information.png 'class: image')
 
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318544/inspect)
 
 ### 4.3 Warning 
-![Image of the message component in the warning variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/notification/images/notification_warning.png 'class: image')
+![Image of the message component in the warning variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/notification/images/notification_warning.png 'class: image')
 
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318545/inspect)
 
 ### 4.4 Error 
-![Image of the message component in the error variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/notification/images/notification_error.png 'class: image')
+![Image of the message component in the error variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/notification/images/notification_error.png 'class: image')
 
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318546/inspect)
 
 ### 4.5 Error with jump marker 
-![Image of the message component in the error with jump marker variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/notification/images/notification_link.png 'class: image')
+![Image of the message component in the error with jump marker variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/notification/images/notification_link.png 'class: image')
 
 * If an error cannot be assigned to an individual element, then the error message with jump marker is used.
 * The individual jump markers are separated with a '/'.

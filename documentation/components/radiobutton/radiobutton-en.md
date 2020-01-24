@@ -27,7 +27,7 @@ The component has the following statuses:
 * Disabled Unchecked
 
 ### 4.1 Standard
-![Image of the radio button component](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/radiobutton/images/radiobutton_default.png 'class: image')
+![Image of the radio button component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/radiobutton/images/radiobutton_default.png 'class: image')
 
 #### Design specification
 * [Checked](https://sbb.invisionapp.com/d/main#/console/17140415/355318553/inspect)

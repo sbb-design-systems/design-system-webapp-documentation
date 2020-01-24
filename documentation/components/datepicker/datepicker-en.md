@@ -29,7 +29,7 @@ The component has the following statuses:
 * Error
 
 ### 4.1 Standard
-![Image of the date selection component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_default.png 'class: image')
+![Image of the date selection component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/dateinput_default.png 'class: image')
 
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318424/inspect)
@@ -42,7 +42,7 @@ The component has the following statuses:
 
 
 ### 4.2 With scroll function
-![Image of the date selection component with scroll function](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_pageable.png 'class: image')
+![Image of the date selection component with scroll function](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/dateinput_pageable.png 'class: image')
 * The navigation arrows are only shown if a preceding/subsequent date can be selected.
 
 #### Design specification
@@ -61,7 +61,7 @@ The component has the following statuses:
 * If both dates are shown, the selected range is entered in the calendar in colour.
 
 ### 4.4 Date of birth
-![Image of the date selection component for entry of a date of birth](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_birthdate.png 'class: image')
+![Image of the date selection component for entry of a date of birth](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/dateinput_birthdate.png 'class: image')
 
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318432/inspect)
@@ -74,7 +74,7 @@ The component has the following statuses:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/datepicker)
 
 ### 4.5 Calender Layer (date picker)
-![Image of the date selection component with date picker](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/datepicker/images/dateinput_picker.png 'class: image')
+![Image of the date selection component with date picker](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/dateinput_picker.png 'class: image')
 The tab sequence within the calender layer is defined as follows:
 1. Previous month
 2. Next month

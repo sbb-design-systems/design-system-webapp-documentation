@@ -22,7 +22,7 @@ The component has the following statuses:
 * Error
 
 ### 4.1 Standard
-![Image of the text area component](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/textarea/images/textarea_default.png 'class: image')
+![Image of the text area component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/textarea/images/textarea_default.png 'class: image')
 
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318587/inspect)

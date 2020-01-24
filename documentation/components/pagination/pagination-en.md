@@ -23,7 +23,7 @@ The component has the following statuses:
 * Hover
 
 ### 4.1 Standard
-![Image of the page numbering component](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/pagination/images/pagination_default.png 'class: image')
+![Image of the page numbering component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/pagination/images/pagination_default.png 'class: image')
 
 #### Design specification
 * [First](https://sbb.invisionapp.com/d/main#/console/17140415/355318548/inspect)

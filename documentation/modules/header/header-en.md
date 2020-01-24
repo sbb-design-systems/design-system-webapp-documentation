@@ -17,7 +17,7 @@ This variant has following statuses:
 * Expanded
 * Hover
 
-![Image of the header module in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/header/images/Header_Default.png 'class: image')
+![Image of the header module in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/modules/header/images/Header_Default.png 'class: image')
 
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/385266877/inspect)
@@ -31,7 +31,7 @@ This variant has following statuses:
 * Expanded
 * Hover
 
-![Image of the header module in the submenu variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/header/images/Header_Submenu.png 'class: image')
+![Image of the header module in the submenu variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/modules/header/images/Header_Submenu.png 'class: image')
 
 #### Design specification
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/385266878/inspect)
@@ -46,7 +46,7 @@ This variant has following statuses:
 * Collapsed
 * Expanded
 
-![Image of the header module in the suite variant to navigate between applicaitons](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/header/images/Header_Suite.png 'class: image')
+![Image of the header module in the suite variant to navigate between applicaitons](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/modules/header/images/Header_Suite.png 'class: image')
 
 #### Design specification
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/385266881/inspect)

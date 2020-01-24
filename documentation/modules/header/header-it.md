@@ -17,7 +17,7 @@
 Diese Ausprägung hat folgende Zustände:
 * Default
 
-![Darstellung des Moduls Header in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/header/images/Header_Default.png 'class: image')
+![Darstellung des Moduls Header in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/modules/header/images/Header_Default.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/385266877/inspect)
@@ -31,7 +31,7 @@ Diese Ausprägung hat folgende Zustände:
 * Expanded
 * Hover
 
-![Darstellung des Moduls Header in der Ausprägung mit Unternavigation](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/header/images/Header_Submenu.png 'class: image')
+![Darstellung des Moduls Header in der Ausprägung mit Unternavigation](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/modules/header/images/Header_Submenu.png 'class: image')
 
 #### Design Spezifikation
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/385266878/inspect)
@@ -46,7 +46,7 @@ Diese Ausprägung hat folgende Zustände:
 * Collapsed
 * Expanded
 
-![Darstellung des Moduls Header mit der Navigation einer Suite zum Wechsel zwischen Anwendungen](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/modules/header/images/Header_Suite.png 'class: image')
+![Darstellung des Moduls Header mit der Navigation einer Suite zum Wechsel zwischen Anwendungen](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/modules/header/images/Header_Suite.png 'class: image')
 
 #### Design Spezifikation
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/385266881/inspect)

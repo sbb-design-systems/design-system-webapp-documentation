@@ -17,14 +17,14 @@ The component has the following statuses:
 * Default
 
 ### 4.1 Standard
-![Image of the fieldset component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/fieldset/images/fieldset_default.png 'class: image')
+![Image of the fieldset component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/fieldset/images/fieldset_default.png 'class: image')
 
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318443/inspect)
 
 
 ### 4.2 Complex fieldset
-![Image of the fieldset component with complex content](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/fieldset/images/fieldset_nested.png 'class: image')
+![Image of the fieldset component with complex content](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/fieldset/images/fieldset_nested.png 'class: image')
 
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318444/inspect)

@@ -23,7 +23,7 @@ The component has the following statuses:
 * Disabled
 
 ### 4.1 Standard
-![Image of the tab component](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/tab/images/tab_default.png 'class: image')
+![Image of the tab component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/tab/images/tab_default.png 'class: image')
 
 #### Design specification
 * [Active](https://sbb.invisionapp.com/d/main#/console/17140415/355318571/inspect)

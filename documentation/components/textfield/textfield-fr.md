@@ -25,7 +25,7 @@ Das Element hat folgende Zustände:
 * Error
 
 ### 4.1 Standard
-![Darstellung der Komponente Textfeld in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/textfield/images/textfield_default.png 'class: image')
+![Darstellung der Komponente Textfeld in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/textfield/images/textfield_default.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318592/inspect)
@@ -38,7 +38,7 @@ Das Element hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/field)
 
 ### 4.2 Passworteingabe
-![Darstellung der Komponente Textfeld zur Passworteingabe](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/textfield/images/textfield_password.png 'class: image')
+![Darstellung der Komponente Textfeld zur Passworteingabe](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/textfield/images/textfield_password.png 'class: image')
 * Das Eingabefeld in der Ausprägung «Passwort» stellt keinen Zustand «Hinted» zur Verfügung.
 
 #### Design Spezifikation

@@ -22,7 +22,7 @@ Die Komponente hat folgende Zustände:
 * Expanded
 
 ### 4.1 Standard
-![Darstellung der Komponente Textexpand](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/textexpand/images/textexpand_default.png 'class: image')
+![Darstellung der Komponente Textexpand](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/textexpand/images/textexpand_default.png 'class: image')
 
 #### Design Spezifikation
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/355318590/inspect)

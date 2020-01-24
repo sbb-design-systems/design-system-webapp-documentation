@@ -18,7 +18,7 @@ The component has the following statuses:
 * Hover
 
 ### 4.1 Standard
-![Image of the process flow component](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/processflow/images/processflow_default.png 'class: image')
+![Image of the process flow component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/processflow/images/processflow_default.png 'class: image')
 
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/15744722/328136685/inspect)

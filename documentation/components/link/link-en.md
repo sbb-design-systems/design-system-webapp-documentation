@@ -20,7 +20,7 @@ The component has the following statuses:
 * On-Click
 
 ## 4.1 Standard
-![Image of the link component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/link/images/link_copy.png 'class: image')
+![Image of the link component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/link/images/link_copy.png 'class: image')
 
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318460/inspect)
@@ -29,7 +29,7 @@ The component has the following statuses:
 
 
 ## 4.2 Nach Formularelementen
-![Image of the link component in forms](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/link/images/link_form.png 'class: image')
+![Image of the link component in forms](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/link/images/link_form.png 'class: image')
 
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318463/inspect)

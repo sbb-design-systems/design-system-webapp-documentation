@@ -25,7 +25,7 @@ The component has the following statuses:
 * Expanded
 
 ### 4.1 Standard
-![Image of the accordion component](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/accordion/images/accordion_default.png 'class: image')
+![Image of the accordion component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/accordion/images/accordion_default.png 'class: image')
 
 #### Design specification
 *   [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/355318374/inspect)

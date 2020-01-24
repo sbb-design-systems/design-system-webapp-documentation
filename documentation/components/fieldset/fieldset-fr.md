@@ -17,13 +17,13 @@ Die Komponente hat folgende Zustände:
 * Default
 
 ### 4.1 Standard
-![Darstellung der Komponente Fieldset in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/fieldset/images/fieldset_default.png 'class: image')
+![Darstellung der Komponente Fieldset in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/fieldset/images/fieldset_default.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318443/inspect)
 
 ### 4.2 Verschachteltes Fieldset
-![Darstellung der Komponente Fieldset mit verschachteltem Inhalt](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/fieldset/images/fieldset_nested.png 'class: image')
+![Darstellung der Komponente Fieldset mit verschachteltem Inhalt](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/fieldset/images/fieldset_nested.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318444/inspect)

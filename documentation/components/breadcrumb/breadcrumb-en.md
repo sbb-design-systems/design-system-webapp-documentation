@@ -18,7 +18,7 @@ The component has the following statuses:
 * Hover
 
 ### 4.1 Standard
-![Image of the breadcrumb component](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/breadcrumb/images/breadcrumb_default.png 'class: image')
+![Image of the breadcrumb component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/breadcrumb/images/breadcrumb_default.png 'class: image')
 
 #### Design specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318380/inspect)

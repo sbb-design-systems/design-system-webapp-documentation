@@ -16,7 +16,7 @@ Die Komponente hat folgende Zustände:
 * Visible
 
 ### 4.1 Overlay oberhalb des Icons
-![Darstellung der Komponente Mengenindikators](https://raw.githubusercontent.com/sbb-design-systems/sbb-design-system/master/webapp/components/badge/images/Badge_Default.png 'class: image')
+![Darstellung der Komponente Mengenindikators](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/badge/images/Badge_Default.png 'class: image')
 
 #### Design Spezifikation
 * [Visible](https://sbb.invisionapp.com/d/main#/console/17140415/365541438/inspect)
