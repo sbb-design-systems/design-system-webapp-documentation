@@ -1,5 +1,5 @@
 ## 1. Verwendung
-Icons dienen zur visuellen Unterstützung von Themen und Aktionen. Für die Verwendung in SBB-Anwendungen sind die Icons im SBB-Stil einzusetzen. Details dazu und ein Set an bereits verfügbaren Icons sind [hier](https://digital.sbb.ch/de/logo-icons-und-piktogramme/icons) zu finden.
+Icons dienen zur visuellen Unterstützung von Themen und Aktionen. Für die Verwendung in SBB-Anwendungen sind die Icons im SBB-Stil einzusetzen. Details dazu und ein Set an bereits verfügbaren Icons sind [hier](https://digital.sbb.ch/de/brand_elemente/icons) zu finden.
 
 
 ## 2. Regeln

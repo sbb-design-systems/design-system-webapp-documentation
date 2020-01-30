@@ -11,7 +11,7 @@ The font required is selected when used for the first time. The following fonts 
 
 
 ## 2. Style
-The font styles defined here form the basis of web applications and their components. If others are used, a clear hierarchy must be ensured as well as sufficient contrast and appropriate line/paragraph spacing. The [SBB colours](https://digital.sbb.ch/en/farben) apply to the font colours.
+The font styles defined here form the basis of web applications and their components. If others are used, a clear hierarchy must be ensured as well as sufficient contrast and appropriate line/paragraph spacing. The [SBB colours](https://digital.sbb.ch/en/brand_elemente/farben) apply to the font colours.
 
 ### 2.1 Heading H1
 ![Image of the heading H1 text font style](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/typography/images/typo_h1.png 'class: image')

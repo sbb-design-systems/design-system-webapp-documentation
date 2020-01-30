@@ -11,7 +11,7 @@ Bei erstem Bedarf wird die entsprechende Schrift ausgewählt. Aktuell stehen fol
 
 
 ## 2. Stile
-Die hier definierten Schriftstile bilden die Basis von Webapplikationen und deren Komponenten. Werden andere eingesetzt ist auf eine klare Hierarchie zu achten ebenso wie auf ausreichenden Kontrast und entsprechenden Zeilen- / Absatzabstand. Für die Schriftfarben gelten die [SBB-Farben](https://digital.sbb.ch/de/farben).
+Die hier definierten Schriftstile bilden die Basis von Webapplikationen und deren Komponenten. Werden andere eingesetzt ist auf eine klare Hierarchie zu achten ebenso wie auf ausreichenden Kontrast und entsprechenden Zeilen- / Absatzabstand. Für die Schriftfarben gelten die [SBB-Farben](https://digital.sbb.ch/de/brand_elemente/farben).
 
 ### 2.1 Überschrift H1
 ![Darstellung des H1-Stils](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/typography/images/typo_h1.png 'class: image')
