@@ -4,7 +4,7 @@ about: Bug report for the webapp design system
 title: 'Bug report Webapp: '
 labels: design-system-webapp
 assignees: Frenggi
-projects: Features & Bugs
+projects: 1
 
 ---
 
