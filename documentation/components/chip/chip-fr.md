@@ -8,11 +8,11 @@
 
 
 ## 3. Regeln
-* Ein Filter-Chip hat immer einen Indikator, welcher angibt wie viele Ergebnisse dahinterstecken.
 * Der Begriff im Chip ist immer einzeilig (keine Zeilenumbrüche) und der Chip selber wächst in der Breite mit dem Text mit.
 * Wird ein Chip aufgrund des Textes zu lang für den Viewport, wird der Text mit «...» gekürzt.
-* Die Input-Chips werden in einem [Textfield](https://digital.sbb.ch/de/webapps/components/textfiled) dargestellt. Dieses kann je nach Anzahl Chips auch mehrzeilig werden.
-
+* Die Input-Chips werden in einem [Textfield](https://digital.sbb.ch/de/webapps/components/textfield) dargestellt. Dieses kann je nach Anzahl Chips und vorhandenem Platz auch mehrzeilig werden.
+* Mittels Backspace können Chips im Textfield gelöscht werden.
+* Ein Filter-Chip hat immer einen Indikator, welcher angibt wie viele Ergebnisse dahinterstecken.
 
 ## 4. Ausprägungen und Zustände
 Die Komponente hat folgende Zustände:
@@ -22,7 +22,7 @@ Die Komponente hat folgende Zustände:
 Diese Ausprägung hat zusätzlich folgende Zustände:
 * Disabled
 * Hover
-* On-Click/Dragged
+* Focused
 
 ![Darstellung der Komponente Chip als Eingabewert](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/chip/images/chip_input.png 'class: image')
 
@@ -32,7 +32,7 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 * [Active](https://sbb.invisionapp.com/d/main#/console/17140415/355318411/inspect)
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318412/inspect)
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318413/inspect)
-* [On-Click/Dragged](https://sbb.invisionapp.com/d/main#/console/17140415/355318414/inspect)
+* [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/411471931/inspect)
 
 ### 4.2 Filter
 Diese Ausprägung hat zusätzlich folgende Zustände:
