@@ -11,14 +11,17 @@
 * Die Datumswahl hat immer ein Label.
 * Für detaillierte Erklärungen kann neben dem Label ein Fragezeichen im Kreis dargestellt werden. Beim Klick auf dieses Fragezeichen öffnet sich ein [Tooltip](https://digital.sbb.ch/de/webapps/components/tooltip).
 * Mit Klick ins Datumsfeld kann das Datum von Hand eingetragen werden.
-* Bei der manuellen Eingabe muss der Punkt immer vom Benutzer eingegeben werden. Danach übernimmt das Element die korrekte Formatierung, d.h. es müssen Eingaben wie 1.1.18 akzeptiert und ins gewünschte Format umgesetzt werden. In diesem Fall würde der 1. Januar 2018 ausgewählt.
+    * Bei der manuellen Eingabe werden folgende Eingaben ermöglicht, welche von der Komponente automatisch korrekt formatiert werden (Bsp. 1. Januar 2020):
+        * '010120'
+        * '1.1.20'
+        * '01.01.20'
 * Bei Klick auf das Kalender-Icon öffnet sich ein Kalender-Layer zur Auswahl des Datums. Mittels Klick ausserhalb des Kalender-Layers wird dieser wieder geschlossen.
 * Im Kalender-Layer können einzelne Tage oder ganze Datumsbereiche deaktiviert werden.
 * Die Navigationspfeile im Kalender-Layer (Monat / Jahr) werden nur dargestellt, wenn auch ein vorangehendes/nachfolgende Datum gewählt werden kann.
-* Das gewählte Datum wird im Format Wochentag, TT.MM.JJJJ dargestellt (Beispiel Fr, 04.08.2017).
 * Wenn der Fokus im Kalender-Layer liegt, kann dieser wie folgt mittels Tastatur bedient  werden:
     * Pfeiltasten: Wechseln des markierten Tages.
     * Leertaste / Enter: Auswahl des markierten Tages.
+* Das gewählte Datum wird in der Regel im Format "Wochentag, TT.MM.JJJJ" dargestellt (Beispiel "Fr, 04.08.2017"). Die Anzeige des Wochentags ist dabei optional.
 
 
 ## 4. Ausprägungen und Zustände 
