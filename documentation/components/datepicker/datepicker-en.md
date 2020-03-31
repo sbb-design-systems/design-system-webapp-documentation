@@ -11,14 +11,17 @@
 * The date selection always has a label.
 * A question mark in the circle – in addition to the label – can be used for detailed explanations. A [tooltip](https://digital.sbb.ch/en/webapps/components/tooltip) opens when clicking on this question mark.
 * The date can be entered by hand by clicking in the date field.
-* The point must always be entered by the user with manual entry. The element then takes over the correct formatting, i.e. entries like 1.1.18 must be accepted and put into the required format. In this case, 1 January 2018 would be selected.
+    * Manual entry allows the following entries, which are automatically formatted correctly by the component (e.g. 1 January 2020):
+        * '010120'
+        * '1.1.20'
+        * '01.01.20'
 * When the calendar icon is clicked on, a calendar layer opens to select the date. Clicking outside of the calendar layer closes it again.
 * Individual days or entire date ranges can be deactivated in the calendar layer.
 * The navigation arrows in the calendar layer (month/year) are only shown if a preceding/subsequent date can be selected.
-* The date selected is shown in the format of day of the week, DD.MM.YYYY (e.g. Fri, 04.08.2017).
 * If the focus is on the calendar layer, it can be operated by keyboard as follows:
     * Arrow keys: Changing the marked day.
     * Space key / Enter: Selection of the marked day.
+* The selected date is usually displayed in the format "Weekday, DD.MM.YYYY" (example "Fr, 04.08.2017"). The display of the weekday is optional.
 
 
 ## 4. Variants and statuses
