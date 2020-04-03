@@ -21,6 +21,7 @@
 The component has the following statuses:
 * Default
 * Hover
+* Active
 
 ### 4.1 Standard
 ![Image of the autocomplete component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/autocompletion/images/autocompletion_default.png 'class: image')
@@ -28,6 +29,7 @@ The component has the following statuses:
 #### Design specification
 *   [Default](https://sbb.invisionapp.com/d/#/console/17140415/383359152/inspect)
 *   [Hover](https://sbb.invisionapp.com/d/#/console/17140415/383359153/inspect)
+*   [Active](https://sbb.invisionapp.com/d/main#/console/17140415/412262199/inspect)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/autocomplete)
