@@ -36,10 +36,8 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 
 ### 4.2 Icon
 Diese Ausprägung hat zusätzlich folgende Zustände:
-* Default
-* Hover
-* Expanded Hover
-* Expanded Active
+* Expanded Hover Underneath
+* Expanded Hover Above
 
 ![Darstellung der Komponente Kontextmenü zum Öffnen mittels Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/contextmenu/images/contextmenu_icon.png 'class: image')
 
@@ -48,7 +46,8 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318420/inspect)
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318421/inspect)
-* [Expanded Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318422/inspect)
+* [Expanded Hover Underneath](https://sbb.invisionapp.com/d/main#/console/17140415/355318422/inspect)
+* [Expanded Hover Above](https://sbb.invisionapp.com/d/main#/console/17140415/412263413/inspect)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/contextmenu)

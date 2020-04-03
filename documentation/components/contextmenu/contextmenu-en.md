@@ -36,8 +36,6 @@ This variant also has the following statuses:
 
 ### 4.2 Icon
 This variant also has the following statuses:
-* Default
-* Hover
 * Expanded Hover
 * Expanded Active
 
@@ -48,7 +46,8 @@ This variant also has the following statuses:
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318420/inspect)
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318421/inspect)
-* [Expanded Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318422/inspect)
+* [Expanded Hover Underneath](https://sbb.invisionapp.com/d/main#/console/17140415/355318422/inspect)
+* [Expanded Hover Above](https://sbb.invisionapp.com/d/main#/console/17140415/412263413/inspect)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/contextmenu)
