@@ -12,7 +12,7 @@
 * If a chip is too long for the viewport because of the text, the text is shortened with “…”.
 * The input chips are shown in a [text field](https://digital.sbb.ch/en/webapps/components/textfiled). This can also be multi-line depending on the number of chips and available space.
 * The chips in the textfield can be deleted by using backspace.
-
+* The chips can be generated via ‘autocomplete’ selection or with free text depending on the use case.
 
 ## 4. Variants and statuses
 The component has the following statuses:
@@ -23,8 +23,6 @@ The component has the following statuses:
 
 ### 4.1 Input
 ![Image of the chip component as an entry value](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/chip/images/chip_input.png 'class: image')
-
-* The chips can be generated via ‘autocomplete’ selection or with free text depending on the use case.
 
 #### Design specification
 * [Active](https://sbb.invisionapp.com/d/main#/console/17140415/355318411/inspect)
