@@ -12,18 +12,16 @@
 * Wird ein Chip aufgrund des Textes zu lang für den Viewport, wird der Text mit «...» gekürzt.
 * Die Input-Chips werden in einem [Textfield](https://digital.sbb.ch/de/webapps/components/textfield) dargestellt. Dieses kann je nach Anzahl Chips und vorhandenem Platz auch mehrzeilig werden.
 * Mittels Backspace können Chips im Textfield gelöscht werden.
-* Ein Filter-Chip hat immer einen Indikator, welcher angibt wie viele Ergebnisse dahinterstecken.
+
 
 ## 4. Ausprägungen und Zustände
 Die Komponente hat folgende Zustände:
 * Active
-
-### 4.1 Input
-Diese Ausprägung hat zusätzlich folgende Zustände:
 * Disabled
 * Hover
 * Focused
 
+### 4.1 Input
 ![Darstellung der Komponente Chip als Eingabewert](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/chip/images/chip_input.png 'class: image')
 
 * Je nach Anwendungsfall können die Chips über "autocomplete"-Auswahlen oder mit Freitext generiert werden.
@@ -33,15 +31,3 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318412/inspect)
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318413/inspect)
 * [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/411471931/inspect)
-
-### 4.2 Filter
-Diese Ausprägung hat zusätzlich folgende Zustände:
-* Inactive
-
-![Darstellung der Komponente Chip fürs Filtern](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/chip/images/chip_filter.png 'class: image')
-
-* Mit Klick auf ein Tag toggelt der jeweilige Zustand in den anderen und beeinflusst so das Filterergebnis.
-
-#### Design Spezifikation
-* [Active](https://sbb.invisionapp.com/d/main#/console/17140415/355318415/inspect)
-* [Inactive](https://sbb.invisionapp.com/d/main#/console/17140415/355318416/inspect)
