@@ -18,7 +18,7 @@ The component has the following statuses:
 * Inactive
 
 ### 4.1 Filter tag
-![Image of the filter tag component used as filter](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/tag/images/tag_filter.png 'class: image')
+![Image of the filter tag component used as filter](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/tag/images/Tag_Filter.png 'class: image')
 
 * In the filter there are tags in status active or inactive.
 * When a tag is clicked, the status concerned toggles to the other status and influences the filter result.

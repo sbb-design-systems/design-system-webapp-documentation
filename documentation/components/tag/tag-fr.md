@@ -18,7 +18,7 @@ Die Komponente hat folgende Zustände:
 * Inactive
 
 ### 4.1 Filtertag
-![Darstellung der Komponente Tag zur Verwendung als Filter](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/tag/images/tag_filter.png 'class: image')
+![Darstellung der Komponente Tag zur Verwendung als Filter](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/tag/images/Tag_Filter.png 'class: image')
 
 * Im Filter sind die Tags im aktiven und inaktiven Zustand vorhanden.
 * Mit Klick auf ein Tag toggelt der jeweilige Zustand in den anderen und beeinflusst so das Filterergebnis.
