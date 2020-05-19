@@ -41,7 +41,7 @@ Die Komponente hat folgende Zustände:
 * [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318427/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/datepicker)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/datepicker)
 
 ### 4.2 Mit Blätterfunktion
 ![Darstellung der Komponente Datumsauswahl mit Blätterfunktion](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/dateinput_pageable.png 'class: image')
@@ -54,7 +54,7 @@ Die Komponente hat folgende Zustände:
 * [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318431/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/datepicker)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/datepicker)
 
 ### 4.3 Datumsbereich
 * Um einen Datumsbereich zu wählen, werden zwei Datepicker kombiniert.
@@ -73,7 +73,7 @@ Die Komponente hat folgende Zustände:
 * [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318436/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/datepicker)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/datepicker)
 
 ### 4.5 Kalender-Layer (Datepicker)
 ![Darstellung der Komponente Datumsauswahl mit Kalenderdarstellung](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/dateinput_picker.png 'class: image')
@@ -93,4 +93,4 @@ Die Tab-Reihenfolge innerhalb des Kalender-Layers ist wie folgt defniert:
 * [Datumsbereich über Monatsgrenze](https://sbb.invisionapp.com/d/main#/console/17140415/355318442/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/datepicker)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/datepicker)

@@ -32,4 +32,4 @@ Die Komponente hat die folgende Zustände:
 *   [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355318375/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/accordion)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/accordion)

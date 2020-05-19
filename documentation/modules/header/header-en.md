@@ -23,7 +23,7 @@ This variant has following statuses:
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/385266877/inspect)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/header)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/header)
 
 ### 4.2 Submenu
 This variant has following statuses:
@@ -39,7 +39,7 @@ This variant has following statuses:
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/385266880/inspect)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/header)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/header)
 
 ### 4.3 Suite
 This variant has following statuses:
@@ -53,4 +53,4 @@ This variant has following statuses:
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/385266882/inspect)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/header)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/header)

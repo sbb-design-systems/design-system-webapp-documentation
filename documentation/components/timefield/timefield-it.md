@@ -28,4 +28,4 @@ Die Komponente hat folgende Zustände:
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318604/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/time-input)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/time-input)

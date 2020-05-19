@@ -34,7 +34,7 @@ The component has the following statuses:
 * [Visible](https://sbb.invisionapp.com/d/main#/console/17140415/355318614/inspect)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/tooltip)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/tooltip)
 
 ### 4.2 Overlay below the icon
 ![Image of the tooltip component with the textbox below it](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/tooltip/images/tooltip_underneath.png 'class: image')
@@ -45,4 +45,4 @@ The component has the following statuses:
 * [Visible](https://sbb.invisionapp.com/d/main#/console/17140415/355318615/inspect)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/tooltip)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/tooltip)

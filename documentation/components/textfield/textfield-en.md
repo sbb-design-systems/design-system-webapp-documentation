@@ -35,7 +35,7 @@ The component has the following statuses:
 * [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318596/inspect)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/field)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/field)
 
 ### 4.2 Password entry
 ![Image of the text field component in the password entry variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/textfield/images/textfield_password.png 'class: image')

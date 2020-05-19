@@ -41,7 +41,7 @@ The component has the following statuses:
 * [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318427/inspect)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/datepicker)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/datepicker)
 
 
 ### 4.2 With scroll function
@@ -55,7 +55,7 @@ The component has the following statuses:
 * [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318431/inspect)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/datepicker)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/datepicker)
 
 ### 4.3 Date range
 * Two date pickers are combined to select a date range.
@@ -74,7 +74,7 @@ The component has the following statuses:
 * [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318436/inspect)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/datepicker)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/datepicker)
 
 ### 4.5 Calender Layer (date picker)
 ![Image of the date selection component with date picker](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/dateinput_picker.png 'class: image')
@@ -94,4 +94,4 @@ The tab sequence within the calender layer is defined as follows:
 * [Date range beyond a month](https://sbb.invisionapp.com/d/main#/console/17140415/355318442/inspect)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/datepicker)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/datepicker)

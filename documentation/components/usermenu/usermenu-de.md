@@ -29,7 +29,7 @@ Die Komponente hat folgende Zustände:
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318619/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/usermenu)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/usermenu)
 
 ### 4.2 Rollenauswahl
 ![Darstellung der Komponente Benutzermenü mit Rollenauswahl](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/usermenu/images/usermenu_rollenauswahl.png 'class: image')
@@ -40,5 +40,5 @@ Die Komponente hat folgende Zustände:
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355318620/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/usermenu)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/usermenu)
 

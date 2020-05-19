@@ -35,7 +35,7 @@ Das Element hat folgende Zustände:
 * [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318596/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/field)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/field)
 
 ### 4.2 Passworteingabe
 ![Darstellung der Komponente Textfeld zur Passworteingabe](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/textfield/images/textfield_password.png 'class: image')

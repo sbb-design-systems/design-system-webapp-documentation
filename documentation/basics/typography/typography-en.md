@@ -18,35 +18,35 @@ The font styles defined here form the basis of web applications and their compon
 
 #### specification
 * [Design](https://sbb.invisionapp.com/d/main#/console/17140415/411264566/inspect)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/introduction/typography)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
 
 ### 2.2 Heading H2
 ![Image of the heading H2 text font style](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/typography/images/typo_h2.png 'class: image')
 
 #### specification
 * [Design](https://sbb.invisionapp.com/d/main#/console/17140415/411264567/inspect)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/introduction/typography)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
 
 ### 2.3 Heading H3
 ![Image of the heading H3 text font style](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/typography/images/typo_h3.png 'class: image')
 
 #### specification
 * [Design](https://sbb.invisionapp.com/d/main#/console/17140415/411264568/inspect)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/introduction/typography)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
 
 ### 2.4 Heading H4
 ![Image of the heading H4 text font style](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/typography/images/Typo_H4.png 'class: image')
 
 #### specification
 * [Design](https://sbb.invisionapp.com/d/main#/console/17140415/411264569/inspect)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/introduction/typography)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
 
 ### 2.5 Body copy
 ![Image of the body copy font style](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/typography/images/typo_copy.png 'class: image')
 
 #### specification
 * [Design](https://sbb.invisionapp.com/d/main#/console/17140415/411264570/inspect)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/introduction/typography)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
 
 ### 2.6 Link
 ![Image of the link font style](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/typography/images/typo_link.png 'class: image')
@@ -55,7 +55,7 @@ The font styles defined here form the basis of web applications and their compon
 
 #### specification
 * [Design](https://sbb.invisionapp.com/d/main#/console/17140415/411264571/inspect)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/introduction/typography)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
 
 ### 2.7 Table header
 This style has the following statuses:
@@ -71,25 +71,25 @@ This style has the following statuses:
 * [Sorted](https://sbb.invisionapp.com/d/main#/console/17140415/411452248/inspect)
 
 #### code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/introduction/typography)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
 
 ### 2.8 Table subtitle
 ![Image of the table header font style](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/typography/images/Typo_Table_Subtitle.png 'class: image')
 
 #### specification
 * [Design](https://sbb.invisionapp.com/d/main#/console/17140415/411264572/inspect)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/introduction/typography)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
 
 ### 2.9 Table rowtitle
 ![Image of the table header font style](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/typography/images/Typo_Table_Rowtitle.png 'class: image')
 
 #### specification
 * [Design](https://sbb.invisionapp.com/d/main#/console/17140415/411264573/inspect)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/introduction/typography)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
 
 ### 2.10 Table data
 ![Image of the table data font style](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/typography/images/typo_table_data.png 'class: image')
 
 #### specification
 * [Design](https://sbb.invisionapp.com/d/main#/console/17140415/355320827/inspect)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/introduction/typography)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
