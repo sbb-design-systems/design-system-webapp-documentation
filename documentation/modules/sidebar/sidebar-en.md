@@ -18,7 +18,7 @@ This variant has following statuses:
 ![Display of the sidebar in the plain version](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/modules/sidebar/images/Sidebar_Plain.png 'class: image')
 
 * The menu items can be divided into categories / areas.
-* The categories can be implemented as [Accordion](https://digital.sbb.ch/en/webapps/components/accordion) if required.
+* For the categories you can choose between [Accordion](https://digital.sbb.ch/en/webapps/components/accordion) and [Filedset](https://digital.sbb.ch/en/webapps/components/fieldset) when using the sidebar.
 
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/418096725/inspect)
@@ -51,7 +51,7 @@ This variant has following statuses:
 
 * The default state (collapsed, expanded) can be defined per application.
 * The menu items can be divided into categories / areas.
-* The categories can be implemented as [Accordion](https://digital.sbb.ch/de/webapps/components/accordion) if required.
+* For the categories you can choose between [Accordion](https://digital.sbb.ch/en/webapps/components/accordion) and [Filedset](https://digital.sbb.ch/en/webapps/components/fieldset) when using the sidebar.
 
 #### Design specification
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/418096730/inspect)
