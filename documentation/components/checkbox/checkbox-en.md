@@ -44,4 +44,4 @@ The component has the following statuses:
 * [Disabled Unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318410/inspect)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/checkbox)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/checkbox)

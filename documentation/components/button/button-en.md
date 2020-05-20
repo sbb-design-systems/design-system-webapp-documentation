@@ -35,7 +35,7 @@ The component has the following statuses:
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318385/inspect)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/button)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/button)
 
 ### 4.2 Alternative primary button
 ![Image of the alternative primary button component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/button/images/button_primary_alternative.png 'class: image')
@@ -47,7 +47,7 @@ The component has the following statuses:
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355328677/inspect)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/button)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/button)
 
 ### 4.3 Secondary Button
 ![Image of the secondary button component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/button/images/button_secondary.png 'class: image')
@@ -59,7 +59,7 @@ The component has the following statuses:
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318393/inspect)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/button)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/button)
 
 ### 4.4 Ghost Button
 ![Image of the ghost button component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/button/images/button_ghost.png 'class: image')
@@ -71,7 +71,7 @@ The component has the following statuses:
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318397/inspect)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/button)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/button)
 
 ### 4.5 Icon Button
 ![Image of the icon button component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/button/images/button_icon.png 'class: image')
@@ -83,4 +83,4 @@ The component has the following statuses:
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318401/inspect)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/button)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/button)

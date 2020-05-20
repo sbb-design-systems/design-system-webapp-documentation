@@ -24,7 +24,7 @@ Die Komponente hat folgende Zustände:
 Diese Ausprägung hat zusätzlich folgende Zustände:
 * Expanded (optional)
 
-![Darstellung der Komponente Kontextmenü zum Öffnen mittels rechter Maustaste](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/contextmenu/images/contextmenu_default.png 'class: image')
+![Darstellung der Komponente Kontextmenü zum Öffnen mittels rechter Maustaste](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/contextmenu/images/Contextmenu_Default.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318417/inspect)
@@ -32,14 +32,14 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355318419/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/contextmenu)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/contextmenu)
 
 ### 4.2 Icon
 Diese Ausprägung hat zusätzlich folgende Zustände:
 * Expanded Hover Underneath
 * Expanded Hover Above
 
-![Darstellung der Komponente Kontextmenü zum Öffnen mittels Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/contextmenu/images/contextmenu_icon.png 'class: image')
+![Darstellung der Komponente Kontextmenü zum Öffnen mittels Icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/contextmenu/images/Contextmenu_Icon.png 'class: image')
 
 * Als Icon werden standardmässig die drei Punkte verwendet. 
 
@@ -50,14 +50,14 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 * [Expanded Hover Above](https://sbb.invisionapp.com/d/main#/console/17140415/412263413/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/contextmenu)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/contextmenu)
 
 ### 4.3 Sorting
 Diese Ausprägung hat zusätzlich folgende Zustände:
 * Expanded Hover
 * Expanded Active
 
-![Darstellung der Komponente Kontextmenü zur Sortierung von Inhalten](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/contextmenu/images/contextmenu_sorting.png 'class: image')
+![Darstellung der Komponente Kontextmenü zur Sortierung von Inhalten](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/contextmenu/images/Contextmenu_Sorting.png 'class: image')
 * Zur Anzeige der Sortierung wird das Pfeil-Icon verwendet.
 * Per Default wird absteigend (ascending) sortiert.
 * Beim Hover auf aktiv sortiertes Attribut wird das Pfeil-Icon gedreht.
@@ -68,4 +68,4 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 * [Active](https://sbb.invisionapp.com/d/main#/console/17140415/355318423/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/contextmenu)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/contextmenu)

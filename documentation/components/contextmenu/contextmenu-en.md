@@ -24,7 +24,7 @@ The component has the following statuses:
 This variant also has the following statuses:
 * Expanded (optional)
 
-![Image of the context menu component for opening via the right mouse button](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/contextmenu/images/contextmenu_default.png 'class: image')
+![Image of the context menu component for opening via the right mouse button](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/contextmenu/images/Contextmenu_Default.png 'class: image')
 
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318417/inspect)
@@ -32,14 +32,14 @@ This variant also has the following statuses:
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355318419/inspect)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/contextmenu)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/contextmenu)
 
 ### 4.2 Icon
 This variant also has the following statuses:
 * Expanded Hover
 * Expanded Active
 
-![Image of the context menu component for opening with the icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/contextmenu/images/contextmenu_icon.png 'class: image')
+![Image of the context menu component for opening with the icon](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/contextmenu/images/Contextmenu_Icon.png 'class: image')
 
 * The three dots are used for the icon as default. 
 
@@ -50,14 +50,14 @@ This variant also has the following statuses:
 * [Expanded Hover Above](https://sbb.invisionapp.com/d/main#/console/17140415/412263413/inspect)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/contextmenu)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/contextmenu)
 
 ### 4.3 Sorting
 This variant also has the following statuses:
 * Expanded Hover
 * Expanded Active
 
-![Image of the context menu component to sort content](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/contextmenu/images/contextmenu_sorting.png 'class: image')
+![Image of the context menu component to sort content](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/contextmenu/images/Contextmenu_Sorting.png 'class: image')
 * The arrow icon is used to display the sorting.
 * Sorting is ascending by default.
 * When hovering over an active sorted attribute, the arrow icon is turned around.
@@ -68,4 +68,4 @@ This variant also has the following statuses:
 * [Active](https://sbb.invisionapp.com/d/main#/console/17140415/355318423/inspect)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/contextmenu)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/contextmenu)

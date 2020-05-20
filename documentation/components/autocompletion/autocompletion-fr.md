@@ -24,7 +24,7 @@ Die Komponente hat folgende Zustände:
 * Active
 
 ### 4.1 Standard
-![Darstellung der Komponente Autocomplete in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/autocompletion/images/autocompletion_default.png 'class: image')
+![Darstellung der Komponente Autocomplete in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/autocompletion/images/Autocompletion_Default.png 'class: image')
 
 #### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/#/console/17140415/383359152/inspect)
@@ -32,25 +32,25 @@ Die Komponente hat folgende Zustände:
 *   [Active](https://sbb.invisionapp.com/d/main#/console/17140415/412262199/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/autocomplete)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/autocomplete)
 
 ### 4.2 Mit Trefferanzeige
 Optional zur Standard-Ausprägung kann diese Variante eingesetzt werden, wenn eine Autocompletion-Liste immer mehr als die maximal angezeigten 10 Treffer beinhaltet.
-![Darstellung der Komponente Autocomplete mit Trefferanzeige](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/autocompletion/images/autocompletion_overflow.png 'class: image')
+![Darstellung der Komponente Autocomplete mit Trefferanzeige](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/autocompletion/images/Autocompletion_Overflow.png 'class: image')
 
 #### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318376/inspect)
 *   [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318377/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/autocomplete)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/autocomplete)
 
 ### 4.3 Mit statischen Einträgen
-![Darstellung der Komponente Autocomplete mit statischen Einträgen](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/autocompletion/images/autocompletion_static.png 'class: image')
+![Darstellung der Komponente Autocomplete mit statischen Einträgen](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/autocompletion/images/Autocompletion_Static.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318378/inspect)
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318379/inspect)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/autocomplete)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/autocomplete)

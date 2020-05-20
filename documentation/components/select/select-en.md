@@ -27,7 +27,7 @@ The component has the following statuses:
 - Expanded
 
 ### 4.1 Standard
-![Image of the select component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/select/images/select_default.png 'class: image')
+![Image of the select component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/select/images/Select_Default.png 'class: image')
 
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355347615/inspect)
@@ -39,7 +39,7 @@ The component has the following statuses:
 * [Active](https://sbb.invisionapp.com/d/main#/console/17140415/355347621/inspect)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/select)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/select)
 
 ### 4.2 Multiple choice 
 ![Image of the select component with multiple choice](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/select/images/select_multi.png 'class: image')
@@ -50,7 +50,7 @@ The component has the following statuses:
 * [Expanded Autocomplete](https://sbb.invisionapp.com/d/main#/console/17140415/371074705/inspect)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/select)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/select)
 
 ### 4.3 Grouped single choice
 ![Image of the select component with grouped entries](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/select/images/select_grouped_single.png 'class: image')
@@ -59,7 +59,7 @@ The component has the following statuses:
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355347624/inspect)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/select)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/select)
 
 ### 4.4 Grouped multiple choice
 ![Image of the select component with grouped entries and multiple choice](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/select/images/select_grouped_multi.png 'class: image')
@@ -69,4 +69,4 @@ The component has the following statuses:
 * [Expanded Tree Checkbox](https://sbb.invisionapp.com/d/main#/console/17140415/371074670/inspect)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/select)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/select)

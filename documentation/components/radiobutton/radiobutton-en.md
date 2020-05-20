@@ -38,4 +38,4 @@ The component has the following statuses:
 * [Disabled unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318558/inspect)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/latest/business/components/radio-button)
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/radio-button)
