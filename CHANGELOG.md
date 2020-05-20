@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/sbb-design-systems/design-system-webapp-documentation/compare/v1.0.0...v1.1.0) (2020-05-20)
+
+
+### Features
+
+* add specification for sidebar and menu item ([54f077e](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/54f077eb393055102be55ac18e30143adbdcf03f))
+
 ## 1.0.0 (2020-05-19)
 Inital release.
 
