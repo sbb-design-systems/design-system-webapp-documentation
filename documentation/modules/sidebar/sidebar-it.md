@@ -18,7 +18,7 @@ Diese Ausprägung hat folgende Zustände:
 ![Darstellung der Sidebar in der Plain-Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/modules/sidebar/images/Sidebar_Plain.png 'class: image')
 
 * Die Menüeinträge können in Kategorien / Bereiche gegliedert werden.
-* Bei den Kategorien kann beim Einsatz der Sidebar zwischen [Accordion](https://digital.sbb.ch/de/webapps/components/accordion) und [Filedset](https://digital.sbb.ch/de/webapps/components/fieldset) gewählt werden.
+* Bei den Kategorien kann beim Einsatz der Sidebar zwischen [Accordion](https://digital.sbb.ch/de/webapps/components/accordion) und [Fieldset](https://digital.sbb.ch/de/webapps/components/fieldset) gewählt werden.
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/418096725/inspect)
@@ -51,7 +51,7 @@ Diese Ausprägung hat folgende Zustände:
 
 * Der Defaultzustand (collapsed, expanded) kann pro Anwendung festgelegt werden.
 * Die Menüeinträge können in Kategorien / Bereiche gegliedert werden.
-* Bei den Kategorien kann beim Einsatz der Sidebar zwischen [Accordion](https://digital.sbb.ch/de/webapps/components/accordion) und [Filedset](https://digital.sbb.ch/de/webapps/components/fieldset) gewählt werden.
+* Bei den Kategorien kann beim Einsatz der Sidebar zwischen [Accordion](https://digital.sbb.ch/de/webapps/components/accordion) und [Fieldset](https://digital.sbb.ch/de/webapps/components/fieldset) gewählt werden.
 
 #### Design Spezifikation
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/418096730/inspect)
