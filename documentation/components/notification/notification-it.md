@@ -24,11 +24,17 @@ Die Komponente hat folgende Zustände:
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318543/inspect)
 
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/notification)
+
 ### 4.2 Hinweis
 ![Darstellung der Komponente Benachrichtigung in der Ausprägung Hinweis](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/notification/images/notification_information.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318544/inspect)
+
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/notification)
 
 ### 4.3 Warnung 
 ![Darstellung der Komponente Benachrichtigung in der Ausprägung Warnung](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/notification/images/notification_warning.png 'class: image')
@@ -36,11 +42,17 @@ Die Komponente hat folgende Zustände:
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318545/inspect)
 
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/notification)
+
 ### 4.4 Fehler 
 ![Darstellung der Komponente Benachrichtigung in der Ausprägung Fehler](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/notification/images/notification_error.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318546/inspect)
+
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/notification)
 
 ### 4.5 Fehler mit Sprungmarke 
 ![Darstellung der Komponente Benachrichtigung in der Ausprägung Fehler mit Sprungmarke](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/notification/images/notification_link.png 'class: image')
@@ -52,3 +64,6 @@ Die Komponente hat folgende Zustände:
 
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318547/inspect)
+
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/notification)

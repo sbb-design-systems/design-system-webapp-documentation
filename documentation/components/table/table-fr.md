@@ -30,11 +30,17 @@ Die Komponente hat folgende Zustände:
 #### Design Spezifikation
 * [Default / Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355362889/inspect)
 
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
+
 ### 4.2 Gruppiert
 ![Darstellung der Komponente Tabelle mit gruppierten Inhalten](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/table/images/table_grouped.png 'class: image')
 
 #### Design Spezifikation
 * [Default / Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355362890/inspect)
+
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
 
 ### 4.3 Sortierbar
 Diese Ausprägung hat folgende Zustände:
@@ -45,3 +51,6 @@ Diese Ausprägung hat folgende Zustände:
 
 #### Design Spezifikation
 * [Default / Hover / Sorted / Unsorted](https://sbb.invisionapp.com/d/main#/console/17140415/355362891/inspect)
+
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)

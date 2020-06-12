@@ -25,3 +25,6 @@ The module has the following statuses:
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318666/inspect)
 * Glass: [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318667/inspect)
+
+#### Code specification
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/dialog)

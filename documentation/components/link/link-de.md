@@ -27,6 +27,9 @@ Die Komponente hat folgende Zustände:
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318461/inspect)
 * [On-Click](https://sbb.invisionapp.com/d/main#/console/17140415/355318462/inspect)
 
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/links)
+
 ## 4.2 Nach Formularelementen
 ![Darstellung der Komponente Link in Formularen](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/link/images/link_form.png 'class: image')
 
@@ -34,3 +37,6 @@ Die Komponente hat folgende Zustände:
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318463/inspect)
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318464/inspect)
 * [On-Click](https://sbb.invisionapp.com/d/main#/console/17140415/355318465/inspect)
+
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/links)

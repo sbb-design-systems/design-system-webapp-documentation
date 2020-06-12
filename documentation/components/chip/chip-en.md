@@ -29,3 +29,6 @@ The component has the following statuses:
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318412/inspect)
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318413/inspect)
 * [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/411471931/inspect)
+
+#### Code specification
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/chip)

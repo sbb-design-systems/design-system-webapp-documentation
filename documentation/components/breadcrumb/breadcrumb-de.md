@@ -23,3 +23,6 @@ Die Komponente hat folgende Zustände:
 #### Design Spezifikation
 *   [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318380/inspect)
 *   [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318381/inspect)
+
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/breadcrumb)

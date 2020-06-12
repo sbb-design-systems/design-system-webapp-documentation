@@ -24,11 +24,17 @@ The component has the following statuses:
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318543/inspect)
 
+#### Code specification
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/notification)
+
 ### 4.2 Notification
 ![Image of the message component in the notification variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/notification/images/notification_information.png 'class: image')
 
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318544/inspect)
+
+#### Code specification
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/notification)
 
 ### 4.3 Warning 
 ![Image of the message component in the warning variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/notification/images/notification_warning.png 'class: image')
@@ -36,11 +42,17 @@ The component has the following statuses:
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318545/inspect)
 
+#### Code specification
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/notification)
+
 ### 4.4 Error 
 ![Image of the message component in the error variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/notification/images/notification_error.png 'class: image')
 
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318546/inspect)
+
+#### Code specification
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/notification)
 
 ### 4.5 Error with jump marker 
 ![Image of the message component in the error with jump marker variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/notification/images/notification_link.png 'class: image')
@@ -52,3 +64,6 @@ The component has the following statuses:
 
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318547/inspect)
+
+#### Code specification
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/notification)
