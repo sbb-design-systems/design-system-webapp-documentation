@@ -26,3 +26,6 @@ Die Komponente hat folgende Zustände:
 #### Design Spezifikation
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318445/inspect)
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318446/inspect)
+
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/file-selector)

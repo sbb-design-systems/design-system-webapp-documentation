@@ -30,12 +30,17 @@ The component has the following statuses:
 #### Design specification
 * [Default / Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355362889/inspect)
 
+#### Code specification
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
 
 ### 4.2 Grouped
 ![Image of the table component with grouped content](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/table/images/table_grouped.png 'class: image')
 
 #### Design specification
 * [Default / Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355362890/inspect)
+
+#### Code specification
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
 
 ### 4.3 Sortable
 This variant has the following statuses:
@@ -46,3 +51,6 @@ This variant has the following statuses:
 
 #### Design specification
 * [Default / Hover / Sorted / Unsorted](https://sbb.invisionapp.com/d/main#/console/17140415/355362891/inspect)
+
+#### Code specification
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)

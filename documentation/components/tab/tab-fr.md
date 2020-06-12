@@ -30,3 +30,6 @@ Die Komponente hat folgende Zustände:
 * [Inactive](https://sbb.invisionapp.com/d/main#/console/17140415/355318572/inspect)
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318573/inspect)
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/395669804/inspect)
+
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/tabs)

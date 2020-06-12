@@ -30,3 +30,6 @@ The component has the following statuses:
 * [Middle](https://sbb.invisionapp.com/d/main#/console/17140415/355318549/inspect)
 * [Last](https://sbb.invisionapp.com/d/main#/console/17140415/355318550/inspect)
 * [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318552/inspect)
+
+#### Code specification
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/pagination)

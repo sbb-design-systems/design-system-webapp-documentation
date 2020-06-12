@@ -27,3 +27,6 @@ The component has the following statuses:
 #### Design specification
 * [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/355318590/inspect)
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355318591/inspect)
+
+#### Code specification
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/textexpand)

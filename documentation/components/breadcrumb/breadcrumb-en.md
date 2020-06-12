@@ -23,3 +23,6 @@ The component has the following statuses:
 #### Design specification
 *   [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318380/inspect)
 *   [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318381/inspect)
+
+#### Code specification
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/breadcrumb)

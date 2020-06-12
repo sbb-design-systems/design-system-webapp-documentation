@@ -26,3 +26,6 @@ The component has the following statuses:
 #### Design specification
 * [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318445/inspect)
 * [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318446/inspect)
+
+#### Code specification
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/file-selector)
