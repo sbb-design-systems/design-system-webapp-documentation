@@ -34,7 +34,7 @@ The component has the following statuses:
 * [Unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318554/inspect)
 * [Focused checked](https://sbb.invisionapp.com/d/main#/console/17140415/355318555/inspect)
 * [Focused unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318556/inspect)
-* [Focused unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318557/inspect)
+* [Disabled checked](https://sbb.invisionapp.com/d/main#/console/17140415/355318557/inspect)
 * [Disabled unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318558/inspect)
 
 #### Code specification
