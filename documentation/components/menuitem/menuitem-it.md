@@ -3,7 +3,7 @@
 
 
 ## 2. Wann soll die Komponente eingesetzt werden?
-* In Menüs, z.B. im [Header](https://digital.sbb.ch/de/webapps/modules/header) Header in der Ausprägung «Suite» oder der [Sidebar](https://digital.sbb.ch/de/webapps/modules/sidebar).
+* In Menüs, z.B. im [Header](https://digital.sbb.ch/de/webapps/modules/header) in der Ausprägung «Suite» oder der [Sidebar](https://digital.sbb.ch/de/webapps/modules/sidebar).
 
 
 ## 3. Regeln
