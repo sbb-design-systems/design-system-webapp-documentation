@@ -2,7 +2,7 @@
 * Provides a menu item for use in different modules.
 
 ## 2. When should the component be used?
-In menus, e.g. in the [Header](https://digital.sbb.ch/en/webapps/modules/header) header in the variant «Suite» or the [Sidebar](https://digital.sbb.ch/en/webapps/modules/sidebar).
+In menus, e.g. in the [Header](https://digital.sbb.ch/en/webapps/modules/header) in the variant «Suite» or the [Sidebar](https://digital.sbb.ch/en/webapps/modules/sidebar).
 
 ## 3. Rules
 * Icons can optionally be inserted before the text to make navigation clearer.
