@@ -21,8 +21,8 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Prozessflow](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/processflow/images/processflow_default.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/328136685/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/328136686/inspect)
+* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355345881/inspect)
+* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355345882/inspect)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/processflow)
