@@ -30,7 +30,7 @@ The component has the following statuses:
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/links)
 
-## 4.2 Nach Formularelementen
+## 4.2 After form elements
 ![Image of the link component in forms](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/link/images/link_form.png 'class: image')
 
 #### Design specification
