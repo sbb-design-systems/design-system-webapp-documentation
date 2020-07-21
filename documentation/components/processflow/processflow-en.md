@@ -21,8 +21,8 @@ The component has the following statuses:
 ![Image of the process flow component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/processflow/images/processflow_default.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/15744722/328136685/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/15744722/328136686/inspect)
+* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355345881/inspect)
+* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355345882/inspect)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/processflow)
