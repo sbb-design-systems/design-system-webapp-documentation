@@ -76,7 +76,7 @@ Die Komponente hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/datepicker)
 
 ### 4.5 Kalender-Layer (Datepicker)
-![Darstellung der Komponente Datumsauswahl mit Kalenderdarstellung](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/dateinput_picker.png 'class: image')
+![Darstellung der Komponente Datumsauswahl mit Kalenderdarstellung](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/Dateinput_Picker.png 'class: image')
 Die Tab-Reihenfolge innerhalb des Kalender-Layers ist wie folgt defniert:
 1. Monat zurück
 2. Monat vor

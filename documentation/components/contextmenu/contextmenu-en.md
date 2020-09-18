@@ -57,7 +57,7 @@ This variant also has the following statuses:
 * Expanded Hover
 * Expanded Active
 
-![Image of the context menu component to sort content](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/contextmenu/images/contextmenu_sorting.png 'class: image')
+![Image of the context menu component to sort content](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/contextmenu/images/Contextmenu_Sorting.png 'class: image')
 * The arrow icon is used to display the sorting.
 * Sorting is ascending by default.
 * When hovering over an active sorted attribute, the arrow icon is turned around.
