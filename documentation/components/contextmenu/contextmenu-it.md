@@ -57,7 +57,7 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 * Expanded Hover
 * Expanded Active
 
-![Darstellung der Komponente Kontextmenü zur Sortierung von Inhalten](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/contextmenu/images/contextmenu_sorting.png 'class: image')
+![Darstellung der Komponente Kontextmenü zur Sortierung von Inhalten](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/contextmenu/images/Contextmenu_Sorting.png 'class: image')
 * Zur Anzeige der Sortierung wird das Pfeil-Icon verwendet.
 * Per Default wird absteigend (ascending) sortiert.
 * Beim Hover auf aktiv sortiertes Attribut wird das Pfeil-Icon gedreht.
