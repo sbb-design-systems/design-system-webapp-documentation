@@ -53,7 +53,7 @@ The component has the following statuses:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/select)
 
 ### 4.3 Grouped single choice
-![Image of the select component with grouped entries](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/select/images/select_grouped_single.png 'class: image')
+![Image of the select component with grouped entries](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/select/images/Select_Grouped_Single.png 'class: image')
 
 #### Design specification
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355347624/inspect)
@@ -62,7 +62,7 @@ The component has the following statuses:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/select)
 
 ### 4.4 Grouped multiple choice
-![Image of the select component with grouped entries and multiple choice](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/select/images/select_grouped_multi.png 'class: image')
+![Image of the select component with grouped entries and multiple choice](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/select/images/Select_Grouped_Multi.png 'class: image')
 
 #### Design specification
 * [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355347625/inspect)

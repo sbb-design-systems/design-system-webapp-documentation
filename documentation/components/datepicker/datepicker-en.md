@@ -77,7 +77,7 @@ The component has the following statuses:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/datepicker)
 
 ### 4.5 Calender Layer (date picker)
-![Image of the date selection component with date picker](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/dateinput_picker.png 'class: image')
+![Image of the date selection component with date picker](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/Dateinput_Picker.png 'class: image')
 The tab sequence within the calender layer is defined as follows:
 1. Previous month
 2. Next month
