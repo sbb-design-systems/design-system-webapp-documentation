@@ -29,10 +29,10 @@ The component has the following statuses:
 ![Image of the primary button component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/button/images/button_primary.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318382/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318383/inspect)
-* [On-Click](https://sbb.invisionapp.com/d/main#/console/17140415/355318384/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318385/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/EAeGxd#Inspector)
+* [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/j14rem#Inspector)
+* [On-Click](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/dAgjdL#Inspector)
+* [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/zJyKkM#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/button)
@@ -41,10 +41,10 @@ The component has the following statuses:
 ![Image of the alternative primary button component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/button/images/button_primary_alternative.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355328674/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355328675/inspect)
-* [On-Click](https://sbb.invisionapp.com/d/main#/console/17140415/355328676/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355328677/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/ZZVnp3#Inspector)
+* [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/JRAJyk#Inspector)
+* [On-Click]((https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/vjRQr4#Inspector)
+* [Disabled]((https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/47o5kD#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/button)
@@ -53,10 +53,10 @@ The component has the following statuses:
 ![Image of the secondary button component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/button/images/button_secondary.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318390/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318391/inspect)
-* [On-Click](https://sbb.invisionapp.com/d/main#/console/17140415/355318392/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318393/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/e0ldzP#Inspector)
+* [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/GlodYO#Inspector)
+* [On-Click](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/OKeRYm#Inspector)
+* [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/mYPK0P#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/button)
@@ -65,10 +65,10 @@ The component has the following statuses:
 ![Image of the ghost button component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/button/images/button_ghost.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318394/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318395/inspect)
-* [On-Click](https://sbb.invisionapp.com/d/main#/console/17140415/355318396/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318397/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/DaEw94#Inspector)
+* [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/amMazD#Inspector)
+* [On-Click](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/AOZR9R#Inspector)
+* [Disabled]((https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/0KA7dG#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/button)

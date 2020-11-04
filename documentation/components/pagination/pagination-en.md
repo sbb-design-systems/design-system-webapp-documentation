@@ -26,10 +26,10 @@ The component has the following statuses:
 ![Image of the page numbering component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/pagination/images/pagination_default.png 'class: image')
 
 #### Design specification
-* [First](https://sbb.invisionapp.com/d/main#/console/17140415/355318548/inspect)
-* [Middle](https://sbb.invisionapp.com/d/main#/console/17140415/355318549/inspect)
-* [Last](https://sbb.invisionapp.com/d/main#/console/17140415/355318550/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318552/inspect)
+* [First](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/K10Rwg#Inspector)
+* [Middle](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/wd5QMq#Inspector)
+* [Last](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/qLbV52#Inspector)
+* [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/Lp4n13#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/pagination)

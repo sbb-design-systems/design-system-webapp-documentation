@@ -25,5 +25,5 @@ The component has the following statuses:
 * A tag «All» is always inserted within the filter. If this filter tag is clicked, it changes to the active status and all other tags in the filter are set to the inactive status.
 
 #### Design specification
-* [Active](https://sbb.invisionapp.com/d/main#/console/17140415/412486708/inspect)
-* [Inactive](https://sbb.invisionapp.com/d/main#/console/17140415/412486709/inspect)
+* [Active](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/YzZ5Lm#Inspector)
+* [Inactive](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/K10Rmg#Inspector)
