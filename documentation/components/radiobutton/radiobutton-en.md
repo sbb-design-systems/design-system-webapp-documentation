@@ -33,7 +33,7 @@ The component has the following statuses:
 * [Checked](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/9dlW0z#Inspector)
 * [Unchecked](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/Pw1oM8#Inspector)
 * [Focused checked](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/gk1Z5j#Inspector)
-* [Focused unchecked]((https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/8jVp08)
+* [Focused unchecked](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/8jVp08)
 * [Disabled checked](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/2q7elA#Inspector)
 * [Disabled unchecked](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/MVmM87#Inspector)
 

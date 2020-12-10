@@ -20,7 +20,7 @@ The component has the following statuses:
 
 #### Design specification
 * [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/9dpb37#Inspector)
-* [Hover]((https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/Pw4zjr#Inspector)
+* [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/Pw4zjr#Inspector)
 * [Active](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/gk9zKM#Inspector)
 
 ### 4.2 Icon
@@ -29,6 +29,6 @@ The component has the following statuses:
 * The icon selected here should be used if the content behind the menu item is opened externally (e.g. in a new tab).
 
 #### Design specification
-* [Example with Icon]((https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/8j12jx#Inspector)
+* [Example with Icon](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/8j12jx#Inspector)
 * [Example with App-Icon](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/2qAwq5#Inspector)
-* [Example with Placeholder]((https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/MVZ2Vm#Inspector)
+* [Example with Placeholder](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/MVZ2Vm#Inspector)

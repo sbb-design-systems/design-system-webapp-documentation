@@ -36,8 +36,6 @@ Die Komponente hat folgende Zustände:
 
 #### Design Spezifikation
 * [LoggedOut](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/dAgjqZ#Inspector)
-* [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/355318617/inspect)
-* [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355318620/inspect)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/usermenu)

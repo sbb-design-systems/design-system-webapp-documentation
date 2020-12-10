@@ -56,7 +56,7 @@ The component has the following statuses:
 ![Image of the select component with grouped entries](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/select/images/Select_Grouped_Single.png 'class: image')
 
 #### Design specification
-* [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355347624/inspect)
+* [Expanded](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/dAgjMj#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/select)

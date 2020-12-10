@@ -27,7 +27,7 @@
 ![Image of the medium divider](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/divider/images/divider_medium.png 'class: image')
 
 #### Design specification
-*   [Default]https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/7P1aE8#Inspector)
+*   [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/7P1aE8#Inspector)
 
 ### 4.4 Big
 ![Image of the big divider](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/divider/images/divider_big.png 'class: image')

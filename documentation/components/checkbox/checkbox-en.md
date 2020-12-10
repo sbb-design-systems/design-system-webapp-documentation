@@ -34,13 +34,13 @@ The component has the following statuses:
 
 #### Design specification
 * [Checked](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/1wVPz5#Inspector)
-* [Indeterminated]https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/pqYKoo#Inspector)
+* [Indeterminated](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/pqYKoo#Inspector)
 * [Unchecked](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/VPEoY8#Inspector)
 * [Focused Checked](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/YzZ5rL#Inspector)
 * [Focused Indeterminated](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/K10RLr#Inspector)
 * [Focused Unchecked](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/wd5Qjp#Inspector)
-* [Disabled Checked](https://sbb.invisionapp.com/d/main#/console/17140415/355318408/inspect)
-* [Disabled Indeterminated]https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/Lp4nYd#Inspector)
+* [Disabled Checked](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/qLbV0k#Inspector)
+* [Disabled Indeterminated](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/Lp4nYd#Inspector)
 * [Disabled Unchecked](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/7P1aG8#Inspector)
 
 #### Code specification
