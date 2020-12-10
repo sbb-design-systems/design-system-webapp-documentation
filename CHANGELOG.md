@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/sbb-design-systems/design-system-webapp-documentation/compare/v1.1.0...v1.1.1) (2020-12-10)
+
+
+### Bug Fixes
+
+* correct links to design spec & images and english translation ([#34](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/34)) ([8125ad9](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/8125ad93cd4ba2f3b5ec71701fed10923e99a8be)), closes [#17](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/17)
+* correct radiobutton link label ([#33](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/33)) ([60cddf1](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/60cddf1e5e53d09d2dd49f6f330f097dcd2cae37))
+
 ## [1.1.0](https://github.com/sbb-design-systems/design-system-webapp-documentation/compare/v1.0.0...v1.1.0) (2020-05-20)
 
 
