@@ -25,8 +25,8 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Textexpand](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/textexpand/images/textexpand_default.png 'class: image')
 
 #### Design Spezifikation
-* [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/355318590/inspect)
-* [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355318591/inspect)
+* [Collapsed](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/yZ9Q1a#Inspector)
+* [Expanded](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/9dlW4z#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/textexpand)

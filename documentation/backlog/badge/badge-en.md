@@ -18,4 +18,4 @@ The component has the following statuses:
 ![Image of the quantity indicator component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/quantity-indicator/images/quantity_indicator_default.png 'class: image')
 
 #### Design specification
-* [Visible](https://sbb.invisionapp.com/d/main#/console/17140415/365541438/inspect)
+* [Visible](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/nKQDxd#Inspector)

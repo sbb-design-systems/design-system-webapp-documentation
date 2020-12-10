@@ -21,7 +21,7 @@ This variant has following statuses:
 * For the categories you can choose between [Accordion](https://digital.sbb.ch/en/webapps/components/accordion) and [Fieldset](https://digital.sbb.ch/en/webapps/components/fieldset) when using the sidebar.
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/418096725/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/RLM5zx#Inspector)
 
 ### 4.2 Icon bar
 This variant has following statuses:
@@ -37,10 +37,10 @@ This variant has following statuses:
 * By default, the first (top) navigation point should be active.
 
 #### Design specification
-* [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/418096726/inspect)
-* [Collapsed Hover](https://sbb.invisionapp.com/d/main#/console/17140415/418096727/inspect)
-* [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/418096728/inspect)
-* [Expanded Hover](https://sbb.invisionapp.com/d/main#/console/17140415/418096729/inspect)
+* [Collapsed](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/wd5Q4V#Inspector)
+* [Collapsed Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/qLbVjd#Inspector)
+* [Expanded](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/Lp4nr5#Inspector)
+* [Expanded Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/9dOpVz#Inspector)
 
 ### 4.3 Submenu
 This variant has following statuses:
@@ -54,5 +54,5 @@ This variant has following statuses:
 * For the categories you can choose between [Accordion](https://digital.sbb.ch/en/webapps/components/accordion) and [Fieldset](https://digital.sbb.ch/en/webapps/components/fieldset) when using the sidebar.
 
 #### Design specification
-* [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/418096730/inspect)
-* [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/418096731/inspect)
+* [Collapsed](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/7P1a7w#Inspector)
+* [Expanded](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/5ynAJp#Inspector)

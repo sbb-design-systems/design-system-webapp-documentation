@@ -22,9 +22,9 @@ Die Komponente hat folgende Zustände:
 * Das hier gewählte Icon soll dann eingesetzt werden, wenn das Menuitem den bestehenden Content ersetzt.
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/418292380/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/418292381/inspect)
-* [Active](https://sbb.invisionapp.com/d/main#/console/17140415/418292382/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/9dpb37#Inspector)
+* [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/Pw4zjr#Inspector)
+* [Active](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/gk9zKM#Inspector)
 
 ### 4.2 Icon
 ![Darstellung der Komponente Menuitem in der Ausprägung mit Icons](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/menuitem/images/Menuitem_Icon.png 'class: image')
@@ -32,6 +32,6 @@ Die Komponente hat folgende Zustände:
 * Das hier gewählte Icon soll dann eingesetzt werden, wenn der Inhalt hinter dem Menuitem extern (z.B. in einem neuen Tab) geöffnet wird.
 
 #### Design Spezifikation
-* [Beispiel mit Icon](https://sbb.invisionapp.com/d/main#/console/17140415/418292383/inspect)
-* [Beispiel mit App-Icon](https://sbb.invisionapp.com/d/main#/console/17140415/418292384/inspect)
-* [Beispiel mit Placeholder](https://sbb.invisionapp.com/d/main#/console/17140415/418292385/inspect)
+* [Beispiel mit Icon](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/8j12jx#Inspector)
+* [Beispiel mit App-Icon](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/2qAwq5#Inspector)
+* [Beispiel mit Placeholder](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/MVZ2Vm#Inspector)

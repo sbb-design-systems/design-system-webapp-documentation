@@ -28,7 +28,7 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Tabelle in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/table/images/table_default.png 'class: image')
 
 #### Design Spezifikation
-* [Default / Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355362889/inspect)
+* [Default / Hover](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/VPJjLr#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
@@ -37,7 +37,7 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Tabelle mit gruppierten Inhalten](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/table/images/table_grouped.png 'class: image')
 
 #### Design Spezifikation
-* [Default / Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355362890/inspect)
+* [Default / Hover](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/Yze49Z#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
@@ -50,7 +50,7 @@ Diese Ausprägung hat folgende Zustände:
 ![Darstellung der Komponente Tabelle mit Sortierung](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/table/images/table_sortable.png 'class: image')
 
 #### Design Spezifikation
-* [Default / Hover / Sorted / Unsorted](https://sbb.invisionapp.com/d/main#/console/17140415/355362891/inspect)
+* [Default / Hover / Sorted / Unsorted](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/K17VlA#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)

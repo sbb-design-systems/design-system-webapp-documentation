@@ -22,10 +22,10 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Zeiteingabe](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/timefield/images/timefield_default.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318601/inspect)
-* [Hinted](https://sbb.invisionapp.com/d/main#/console/17140415/355318602/inspect)
-* [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355318603/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318604/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/nKQDql#Inspector)
+* [Hinted](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/QqD1pb#Inspector)
+* [Focused](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/xz0Qe0#Inspector)
+* [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/EAeGYq#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/time-input)
