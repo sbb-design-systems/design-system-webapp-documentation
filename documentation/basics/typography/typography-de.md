@@ -73,14 +73,14 @@ Dieser Stil hat die folgende Zustände:
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
 
-### 2.8 Untertitel
+### 2.8 Tabellenheader Untertitel
 ![Darstellung des Stils eines Tabellenuntertitel](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/typography/images/Typo_Table_Subtitle.png 'class: image')
 
 #### Spezifikation
 * [Design](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/wdZKEA#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
 
-### 2.9 Zeilentitel
+### 2.9 Tabellenzeilentitel
 ![Darstellung des Stils einer Tabellenüberschrift](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/typography/images/Typo_Table_Rowtitle.png 'class: image')
 
 #### Spezifikation
