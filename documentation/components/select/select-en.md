@@ -29,7 +29,7 @@ The component has the following statuses:
 * Expanded
 
 ### 4.1 Standard
-![Image of the select component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/select/images/select_default.png 'class: image')
+![Image of the select component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/select/images/Select_Default.png 'class: image')
 
 #### Design specification
 * [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/5ynoRd#Inspector)

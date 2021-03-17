@@ -20,7 +20,7 @@ Die Komponente hat folgende Zustände:
 * Mandatory
 
 ### 4.1 Standard
-![Darstellung der Komponente Zeiteingabe](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/timefield/images/timefield_default.png 'class: image')
+![Darstellung der Komponente Zeiteingabe](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/timefield/images/Timefield_Default.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/nKQDql#Inspector)

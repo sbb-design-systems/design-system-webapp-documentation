@@ -26,7 +26,7 @@ Das Element hat folgende Zustände:
 * Mandatory
 
 ### 4.1 Standard
-![Darstellung der Komponente Textfeld in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/textfield/images/textfield_default.png 'class: image')
+![Darstellung der Komponente Textfeld in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/textfield/images/Textfield_Default.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/Pw1oL8#Inspector)

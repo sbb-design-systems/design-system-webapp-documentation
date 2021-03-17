@@ -20,7 +20,7 @@ The component has the following statuses:
 * Mandatory
 
 ### 4.1 Standard
-![Image of the time entry component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/timefield/images/timefield_default.png 'class: image')
+![Image of the time entry component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/timefield/images/Timefield_Default.png 'class: image')
 
 #### Design specification
 * [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/nKQDql#Inspector)

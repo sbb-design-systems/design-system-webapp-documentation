@@ -34,7 +34,7 @@ The component has the following statuses:
 * Mandatory
 
 ### 4.1 Standard
-![Image of the date selection component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/dateinput_default.png 'class: image')
+![Image of the date selection component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/Dateinput_Default.png 'class: image')
 
 #### Design specification
 * [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/QqD1rL#Inspector)
@@ -49,7 +49,7 @@ The component has the following statuses:
 
 
 ### 4.2 With scroll function
-![Image of the date selection component with scroll function](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/dateinput_pageable.png 'class: image')
+![Image of the date selection component with scroll function](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/Dateinput_Pageable.png 'class: image')
 * The navigation arrows are only shown if a preceding/subsequent date can be selected.
 
 #### Design specification
@@ -70,7 +70,7 @@ The component has the following statuses:
 * If both dates are shown, the selected range is entered in the calendar in colour.
 
 ### 4.4 Date of birth
-![Image of the date selection component for entry of a date of birth](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/dateinput_birthdate.png 'class: image')
+![Image of the date selection component for entry of a date of birth](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/Dateinput_Birthdate.png 'class: image')
 
 #### Design specification
 * [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/vjRQy4#Inspector)
