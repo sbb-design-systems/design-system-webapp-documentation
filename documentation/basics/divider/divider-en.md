@@ -15,22 +15,22 @@
 ![Image of the thin divider](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/divider/images/divider_thin.png 'class: image')
 
 #### Design specification
-*   [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/qLbV7k#Inspector)
+*   [Default](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/PGRWLgj#Inspector)
 
 ### 4.2 Small 
 ![Image of the small divider](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/divider/images/divider_small.png 'class: image')
 
 #### Design specification
-*   [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/Lp4nMd#Inspector)
+*   [Default](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/g07ERMk#Inspector)
 
 ### 4.3 Medium
 ![Image of the medium divider](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/divider/images/divider_medium.png 'class: image')
 
 #### Design specification
-*   [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/7P1aE8#Inspector)
+*   [Default](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/8ywzvLD#Inspector)
 
 ### 4.4 Big
 ![Image of the big divider](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/divider/images/divider_big.png 'class: image')
 
 #### Design specification
-*   [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/yZ9Q0A#Inspector)
+*   [Default](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/259br0y#Inspector)
