@@ -20,20 +20,24 @@
 
 ## 4. Ausprägungen und Zustände
 Die Komponente hat folgende Zustände:
-- Default
-- Focused
-- Disabled
-- Error
-- Expanded
+* Default
+* Hinted
+* Focused
+* Disabled
+* Error
+* Mandatory
+* Expanded
 
 ### 4.1 Standard
-![Darstellung der Komponente Select in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/select/images/select_default.png 'class: image')
+![Darstellung der Komponente Select in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/select/images/Select_Default.png 'class: image')
 
 #### Design Spezifikation
 * [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/5ynoRd#Inspector)
+* [Hinted](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/v88vv84#Inspector)
 * [Focused](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/bDLaGj#Inspector)
 * [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/Wjdn2k#Inspector)
 * [Error](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/3LoxWm#Inspector)
+* [Mandatory](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/4aabbaD#Inspector)
 * [Expanded](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/r79r5A#Inspector)
 * [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/nKQDZl#Inspector)
 * [Active](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/QqD1Mb#Inspector)
