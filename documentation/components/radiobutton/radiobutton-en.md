@@ -30,12 +30,12 @@ The component has the following statuses:
 ![Image of the radio button component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/radiobutton/images/radiobutton_default.png 'class: image')
 
 #### Design specification
-* [Checked](https://sbb.invisionapp.com/d/main#/console/17140415/355318553/inspect)
-* [Unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318554/inspect)
-* [Focused checked](https://sbb.invisionapp.com/d/main#/console/17140415/355318555/inspect)
-* [Focused unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318556/inspect)
-* [Disabled checked](https://sbb.invisionapp.com/d/main#/console/17140415/355318557/inspect)
-* [Disabled unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318558/inspect)
+* [Checked](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/9dlW0z#Inspector)
+* [Unchecked](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/Pw1oM8#Inspector)
+* [Focused checked](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/gk1Z5j#Inspector)
+* [Focused unchecked](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/8jVp08)
+* [Disabled checked](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/2q7elA#Inspector)
+* [Disabled unchecked](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/MVmM87#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/radio-button)

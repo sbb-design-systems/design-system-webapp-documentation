@@ -20,23 +20,27 @@
 
 ## 4. Ausprägungen und Zustände
 Die Komponente hat folgende Zustände:
-- Default
-- Focused
-- Disabled
-- Error
-- Expanded
+* Default
+* Hinted
+* Focused
+* Disabled
+* Error
+* Mandatory
+* Expanded
 
 ### 4.1 Standard
-![Darstellung der Komponente Select in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/select/images/select_default.png 'class: image')
+![Darstellung der Komponente Select in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/select/images/Select_Default.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355347615/inspect)
-* [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355347616/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355347617/inspect)
-* [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355347618/inspect)
-* [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355347619/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355347620/inspect)
-* [Active](https://sbb.invisionapp.com/d/main#/console/17140415/355347621/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/5ynoRd#Inspector)
+* [Hinted](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/v88vv84#Inspector)
+* [Focused](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/bDLaGj#Inspector)
+* [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/Wjdn2k#Inspector)
+* [Error](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/3LoxWm#Inspector)
+* [Mandatory](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/4aabbaD#Inspector)
+* [Expanded](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/r79r5A#Inspector)
+* [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/nKQDZl#Inspector)
+* [Active](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/QqD1Mb#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/select)
@@ -45,9 +49,9 @@ Die Komponente hat folgende Zustände:
 ![Darstellung de rKomponente Select mit Mehrfachauswahl](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/select/images/select_multi.png 'class: image')
 
 #### Design Spezifikation
-* [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/355347622/inspect)
-* [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355347623/inspect)
-* [Expanded Autocomplete](https://sbb.invisionapp.com/d/main#/console/17140415/371074705/inspect)
+* [Collapsed](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/xz0QA0#Inspector)
+* [Expanded](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/EAeGJq#Inspector)
+* [Expanded Autocomplete](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/j14rpb#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/select)
@@ -56,7 +60,7 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Select mit gruppierten Einträgen](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/select/images/Select_Grouped_Single.png 'class: image')
 
 #### Design Spezifikation
-* [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355347624/inspect)
+* [Expanded](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/dAgjMj#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/select)
@@ -65,8 +69,8 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Select mit gruppierten Einträgen und Mehrfachauswahl](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/select/images/Select_Grouped_Multi.png 'class: image')
 
 #### Design Spezifikation
-* [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355347625/inspect)
-* [Expanded Tree Checkbox](https://sbb.invisionapp.com/d/main#/console/17140415/371074670/inspect)
+* [Expanded](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/zJyK5l#Inspector)
+* [Expanded Tree Checkbox](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/ZZVnLv#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/select)

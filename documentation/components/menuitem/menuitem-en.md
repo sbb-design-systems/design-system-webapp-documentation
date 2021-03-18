@@ -19,9 +19,9 @@ The component has the following statuses:
 * The icon selected here is to be used when the menu item replaces the existing content.
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/418292380/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/418292381/inspect)
-* [Active](https://sbb.invisionapp.com/d/main#/console/17140415/418292382/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/9dpb37#Inspector)
+* [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/Pw4zjr#Inspector)
+* [Active](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/gk9zKM#Inspector)
 
 ### 4.2 Icon
 ![Image of the component menu items in the form of icons](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/menuitem/images/Menuitem_Icon.png 'class: image')
@@ -29,6 +29,6 @@ The component has the following statuses:
 * The icon selected here should be used if the content behind the menu item is opened externally (e.g. in a new tab).
 
 #### Design specification
-* [Example with Icon](https://sbb.invisionapp.com/d/main#/console/17140415/418292383/inspect)
-* [Example with App-Icon](https://sbb.invisionapp.com/d/main#/console/17140415/418292384/inspect)
-* [Example with Placeholder](https://sbb.invisionapp.com/d/main#/console/17140415/418292385/inspect)
+* [Example with Icon](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/8j12jx#Inspector)
+* [Example with App-Icon](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/2qAwq5#Inspector)
+* [Example with Placeholder](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/MVZ2Vm#Inspector)

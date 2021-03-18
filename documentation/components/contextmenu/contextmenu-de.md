@@ -27,9 +27,9 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 ![Darstellung der Komponente Kontextmenü zum Öffnen mittels rechter Maustaste](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/contextmenu/images/contextmenu_default.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318417/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318418/inspect)
-* [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355318419/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/8jVpO7#Inspector)
+* [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/2q7eZM#Inspector)
+* [Expanded](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/MVmMKw#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/contextmenu)
@@ -44,10 +44,10 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 * Als Icon werden standardmässig die drei Punkte verwendet. 
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318420/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318421/inspect)
-* [Expanded Hover Underneath](https://sbb.invisionapp.com/d/main#/console/17140415/355318422/inspect)
-* [Expanded Hover Above](https://sbb.invisionapp.com/d/main#/console/17140415/412263413/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/5yno4w#Inspector)
+* [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/bDLaZJ#Inspector)
+* [Expanded Hover Underneath](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/Wjdnly#Inspector)
+* [Expanded Hover Above](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/3LoxJr#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/contextmenu)
@@ -64,8 +64,8 @@ Diese Ausprägung hat zusätzlich folgende Zustände:
 * Der ganze Menueintrag (Name und Icon) ist klickbar.
 
 #### Design Spezifikation
-* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/369105601/inspect)
-* [Active](https://sbb.invisionapp.com/d/main#/console/17140415/355318423/inspect)
+* [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/r79r07#Inspector)
+* [Active](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/nKQDWd#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/contextmenu)

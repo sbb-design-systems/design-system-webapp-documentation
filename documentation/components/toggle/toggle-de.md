@@ -22,13 +22,13 @@ Es kann nur eine Option gewählt werden (active). Die restlichen Optionen sind i
 ![Darstellung der Komponente Toggle-Button mit zwei Auswahloptionen](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/toggle/images/Toggle_Double.png 'class: image')
 
 #### Design Spezifikation
-* [First](https://sbb.invisionapp.com/d/main#/console/17140415/412449873/inspect)
-* [Second](https://sbb.invisionapp.com/d/main#/console/17140415/412449874/inspect)
+* [First](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/j14rqb#Inspector)
+* [Second](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/dAgjqj#Inspector)
 
 ### 4.2 Triple
 ![Darstellung der Komponente Toggle-Button mit drei Auswahloptionen](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/toggle/images/Toggle_Triple.png 'class: image')
 
 #### Design Spezifikation
-* [First](https://sbb.invisionapp.com/d/main#/console/17140415/412449875/inspect)
-* [Second](https://sbb.invisionapp.com/d/main#/console/17140415/412449876/inspect)
-* [Third](https://sbb.invisionapp.com/d/main#/console/17140415/412449877/inspect)
+* [First](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/zJyKOl#Inspector)
+* [Second](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/ZZVn5v#Inspector)
+* [Third](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/JRAJpM#Inspector)

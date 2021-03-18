@@ -19,4 +19,4 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Mengenindikators](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/badge/images/Badge_Default.png 'class: image')
 
 #### Design Spezifikation
-* [Visible](https://sbb.invisionapp.com/d/main#/console/17140415/365541438/inspect)
+* [Visible](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/nKQDxd#Inspector)

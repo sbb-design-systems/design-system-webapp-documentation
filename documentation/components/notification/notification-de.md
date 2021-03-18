@@ -22,7 +22,7 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Benachrichtigung in der Ausprägung Bestätigung](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/notification/images/notification_confirmation.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318543/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/RLyo3x#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/notification)
@@ -31,7 +31,7 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Benachrichtigung in der Ausprägung Hinweis](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/notification/images/notification_information.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318544/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/1wVPln#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/notification)
@@ -40,7 +40,7 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Benachrichtigung in der Ausprägung Warnung](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/notification/images/notification_warning.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318545/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/pqYK5G#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/notification)
@@ -49,7 +49,7 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Benachrichtigung in der Ausprägung Fehler](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/notification/images/notification_error.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318546/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/VPEo8A#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/notification)
@@ -63,7 +63,15 @@ Die Komponente hat folgende Zustände:
 * Das Sprungmarkenziel ist immer auf derselben Seite wie die Notification (kein Absprung auf andere Seiten).
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318547/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/YzZ58m#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/notification)
+
+
+### 4.6 Notification Toast
+* Benachrichtigungen können einerseits direkt innerhalb des Contentbereichs angezeigt werden (z.B. aufgrund einer Form-Validierung). Für Benachrichtigungen können aber auch "einfliegende" Toasts verwendet werden.
+* Die Anzeigedauer bis zum automatischen Verschwinden kann jetzt nach Anwendungsfall definiert werden. Dahingehend können Toasts auch konfiguriert werden, dass sie nicht automatisch verschwinden.
+
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/notification-toast)

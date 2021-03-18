@@ -33,15 +33,15 @@ The component has the following statuses:
 ![Image of the checkbox component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/checkbox/images/checkbox_default.png 'class: image')
 
 #### Design specification
-* [Checked](https://sbb.invisionapp.com/d/main#/console/17140415/355318402/inspect)
-* [Indeterminated](https://sbb.invisionapp.com/d/main#/console/17140415/355318403/inspect)
-* [Unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318404/inspect)
-* [Focused Checked](https://sbb.invisionapp.com/d/main#/console/17140415/355318405/inspect)
-* [Focused Indeterminated](https://sbb.invisionapp.com/d/main#/console/17140415/355318406/inspect)
-* [Focused Unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318407/inspect)
-* [Disabled Checked](https://sbb.invisionapp.com/d/main#/console/17140415/355318408/inspect)
-* [Disabled Indeterminated](https://sbb.invisionapp.com/d/main#/console/17140415/355318409/inspect)
-* [Disabled Unchecked](https://sbb.invisionapp.com/d/main#/console/17140415/355318410/inspect)
+* [Checked](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/1wVPz5#Inspector)
+* [Indeterminated](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/pqYKoo#Inspector)
+* [Unchecked](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/VPEoY8#Inspector)
+* [Focused Checked](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/YzZ5rL#Inspector)
+* [Focused Indeterminated](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/K10RLr#Inspector)
+* [Focused Unchecked](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/wd5Qjp#Inspector)
+* [Disabled Checked](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/qLbV0k#Inspector)
+* [Disabled Indeterminated](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/Lp4nYd#Inspector)
+* [Disabled Unchecked](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/7P1aG8#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/checkbox)

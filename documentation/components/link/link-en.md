@@ -23,9 +23,9 @@ The component has the following statuses:
 ![Image of the link component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/link/images/link_copy.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318460/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318461/inspect)
-* [On-Click](https://sbb.invisionapp.com/d/main#/console/17140415/355318462/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/GlodxY#Inspector)
+* [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/OKeR88#Inspector)
+* [On-Click](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/mYPKWz#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/links)
@@ -34,9 +34,9 @@ The component has the following statuses:
 ![Image of the link component in forms](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/link/images/link_form.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318463/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318464/inspect)
-* [On-Click](https://sbb.invisionapp.com/d/main#/console/17140415/355318465/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/DaEwYq#Inspector)
+* [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/amMaev#Inspector)
+* [On-Click](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/AOZR1z#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/links)

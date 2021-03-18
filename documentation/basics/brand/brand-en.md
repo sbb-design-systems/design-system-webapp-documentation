@@ -14,4 +14,4 @@
 ![Image of the SBB logo](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/brand/images/logo_default.png 'class: image')
 
 #### Design specification
-[Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318787/inspect)
+[Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/9dlWKn#Inspector)

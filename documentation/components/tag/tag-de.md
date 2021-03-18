@@ -25,5 +25,5 @@ Die Komponente hat folgende Zustände:
 * Innerhalb des Filter wird immer zusätzlich ein Tag «Alle» eingefügt. Wird dieses Filtertag angeklickt, wechselt es in den Zustand aktiv und alle anderen Tags im Filter werden in den Zustand inaktiv gesetzt.
 
 #### Design Spezifikation
-* [Active](https://sbb.invisionapp.com/d/main#/console/17140415/412486708/inspect)
-* [Inactive](https://sbb.invisionapp.com/d/main#/console/17140415/412486709/inspect)
+* [Active](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/YzZ5Lm#Inspector)
+* [Inactive](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/K10Rmg#Inspector)

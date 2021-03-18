@@ -21,8 +21,8 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Breadcrumb](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/breadcrumb/images/breadcrumb_default.png 'class: image')
 
 #### Design Spezifikation
-*   [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318380/inspect)
-*   [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318381/inspect)
+*   [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/QqD1yL#Inspector)
+*   [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/xz0Q7J#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/breadcrumb)

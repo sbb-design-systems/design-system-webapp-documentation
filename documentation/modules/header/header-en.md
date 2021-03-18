@@ -20,7 +20,7 @@ This variant has following statuses:
 ![Image of the header module in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/modules/header/images/Header_Default.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/385266877/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/e0ldqj#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/header)
@@ -34,9 +34,9 @@ This variant has following statuses:
 ![Image of the header module in the submenu variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/modules/header/images/Header_Submenu.png 'class: image')
 
 #### Design specification
-* [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/385266878/inspect)
-* [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/385266879/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/385266880/inspect)
+* [Collapsed](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/AOZRL4#Inspector)
+* [Expanded](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/kpKQMP#Inspector)
+* [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/owMDq3#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/header)
@@ -49,8 +49,8 @@ This variant has following statuses:
 ![Image of the header module in the suite variant to navigate between applicaitons](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/modules/header/images/Header_Suite.png 'class: image')
 
 #### Design specification
-* [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/385266881/inspect)
-* [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/385266882/inspect)
+* [Collapsed](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/gkVMeJ#Inspector)
+* [Expanded](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/8jGL8O#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/header)

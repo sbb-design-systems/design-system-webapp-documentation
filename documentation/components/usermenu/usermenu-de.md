@@ -10,6 +10,7 @@
 * Das Benutzermenü ist immer im Header platziert und darf nur dort eingesetzt werden.
 * Das aufgeklappte Benutzermenü kann durch Klick ausserhalb des Dropdowns geschlossen werden.
 * Der letzte Menüpunkt in der Liste ist immer «Abmelden».
+* Optional können für die Menüeinträge Icons verwendet werden.
 
 
 ## 4. Ausprägungen und Zustände
@@ -23,10 +24,11 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Benutzermenü in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/usermenu/images/Usermenu_Default.png 'class: image')
 
 #### Design Spezifikation
-* [LoggedOut](https://sbb.invisionapp.com/d/main#/console/17140415/355318616/inspect)
-* [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/355318617/inspect)
-* [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355318618/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318619/inspect)
+* [LoggedOut](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/OKeRP8#Inspector)
+* [Collapsed Initials Only](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/qeQ7aPk#Inspector)
+* [Collapsed with Displayname](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/mYPKqz#Inspector)
+* [Expanded](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/DaEwqq#Inspector)
+* [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/j14rq0#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/usermenu)
@@ -35,9 +37,7 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Benutzermenü mit Rollenauswahl](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/usermenu/images/Usermenu_Rollenauswahl.png 'class: image')
 
 #### Design Spezifikation
-* [LoggedOut](https://sbb.invisionapp.com/d/main#/console/17140415/355318616/inspect)
-* [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/355318617/inspect)
-* [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355318620/inspect)
+* [Expanded](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/dAgjqZ#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/usermenu)

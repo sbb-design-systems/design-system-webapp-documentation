@@ -25,10 +25,10 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Chip als Eingabewert](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/chip/images/chip_input.png 'class: image')
 
 #### Design Spezifikation
-* [Active](https://sbb.invisionapp.com/d/main#/console/17140415/355318411/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318412/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318413/inspect)
-* [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/411471931/inspect)
+* [Active](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/yZ9QzA#Inspector)
+* [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/9dlWmn#Inspector)
+* [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/Pw1onQ#Inspector)
+* [Focused](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/gk1ZGz#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/chip)

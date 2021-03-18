@@ -20,15 +20,17 @@ The component has the following statuses:
 * Focused
 * Disabled
 * Error
+* Mandatory
 
 ### 4.1 Standard
-![Image of the text area component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/textarea/images/textarea_default.png 'class: image')
+![Image of the text area component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/textarea/images/Textarea_Default.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318587/inspect)
-* [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355318588/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318586/inspect)
-* [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318589/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/wd5Qaq#Inspector)
+* [Focused](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/qLbV42#Inspector)
+* [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/Lp4nD3#Inspector)
+* [Error](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/7P1aJP#Inspector)
+* [Mandatory](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/dlwDKn9#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/textarea)
