@@ -10,7 +10,7 @@
 * Ein Radiobutton ist nur innerhalb eines Formulars erlaubt.
 * Es müssen mindestens zwei Optionen zur Auswahl stehen.
 * Eine Vorauswahl ist Pflicht.
-* Radiobuttons können vertikal oder horizontal angeordnet werden. Die vertikale Anordnung wird bevorzugt, dadurch kann der Benutzer die Auswahlmöglichkeiten schneller erfassen.
+* Radiobuttons können vertikal oder horizontal angeordnet werden. Die vertikale Anordnung wird bevorzugt, dadurch können die Benutzer*innen die Auswahlmöglichkeiten schneller erfassen.
 * Der Text kann mehrzeilig sein.
 * Nebst dem eigentlichen Radiobutton dient auch der gesamte Text als Click-Target.
 * Oberhalb einer Radiobutton-Gruppe kann ein Titel eingesetzt werden.

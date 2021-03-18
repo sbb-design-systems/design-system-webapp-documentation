@@ -1,5 +1,5 @@
 ## 1. Was macht das Modul? 
-* Bietet dem Benutzer jederzeit zugängliche Informationen und Funktionen an.
+* Bietet den Benutzer*innen jederzeit zugängliche Informationen und Funktionen an.
 
 
 ## 2. Wann soll das Modul eingesetzt werden? 
@@ -7,8 +7,8 @@
 
 
 ## 3. Regeln
-* Der Header besteht aus App-Chooser (optional, bei Applikationsgruppen), Umgebungsbanner (ausser Prod), Applikationsname und Version, Hauptnavigation (falls notwendig), Suche (optional), Anzeige für Benachrichtigungen (optional), [Benutzermenü](https://digital.sbb.ch/de/webapps/components/usermenu) und [Logo](https://digital.sbb.ch/de/webapps/basics/brand).
-* Bei Tablet wird die Hauptnavigation in die Burgernavigation verschoben. Bei Mobile zusätzlich noch die Suche, Benachrischtigungen und das Benutzermenü.
+* Der Header besteht aus App-Chooser (optional, bei Applikationsgruppen), Umgebungsbanner (ausser Prod), Applikationsname und Version, Hauptnavigation (falls notwendig), Suche (optional), Anzeige für Benachrichtigungen (optional), [Usermenü](https://digital.sbb.ch/de/webapps/components/usermenu) und [Logo](https://digital.sbb.ch/de/webapps/basics/brand).
+* Bei Tablet wird die Hauptnavigation in die Burgernavigation verschoben. Bei Mobile zusätzlich noch die Suche, Benachrischtigungen und das Usermenü.
 * Der Applikationsname wird bei Mobile mit "..." abgeschnitten, wenn es nicht genügend Platz hat.
 
 

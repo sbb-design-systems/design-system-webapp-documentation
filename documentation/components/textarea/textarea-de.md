@@ -3,7 +3,7 @@
 
 
 ## 2. Wann soll die Komponente eingesetzt werden?
-* Wenn vom Benutzer längere Texteingaben verlangt werden.
+* Wenn von den Benutzer*innen längere Texteingaben verlangt werden.
 
 
 ## 3. Regeln 
