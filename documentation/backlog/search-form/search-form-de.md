@@ -3,12 +3,12 @@
 
 
 ## 2. Wann soll das Modul eingesetzt werden?
-* Wenn dem Benutzer die Eingabe einer Suchabfrage mittels einem oder mehreren (Teil-)Wörtern zur Verfügung gestellt werden soll.
+* Wenn den Benutzer*innen die Eingabe einer Suchabfrage mittels einem oder mehreren (Teil-)Wörtern zur Verfügung gestellt werden soll.
 
 
 ## 3. Regeln
 * Das Suchfeld hat immer einen Platzhaltertext, mit einem Hinweis, welche Suchbegriffe akzeptiert werden.
-* Sobald der Fokus im Suchfeld ist, können bei Bedarf dem Benutzer bis zu 9 häufigste Stichworte «Oft gesucht» angezeigt werden.
+* Sobald der Fokus im Suchfeld ist, können bei Bedarf den Benutzer*innen bis zu 9 häufigste Stichworte «Oft gesucht» angezeigt werden.
 * Nachdem der zweite Buchstaben eingetippt wurde, erscheinen vier mögliche Ergebnisse (Auto-Suggest-Mechanismus).
 * Die Übereinstimmung der eingegebenen Buchstaben werden in der Treffer-Liste fett ausgezeichnet.
 * Falls es keine Treffer gibt, bleiben die häufigsten Stichworte alleine stehen. Sind keine häufigsten Stichworte definiert und es gibt keine Treffer, ist die Auto-Suggest-Box ausgeblendet.

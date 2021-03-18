@@ -3,7 +3,7 @@
 
 
 ## 2. Wann soll die Komponente eingesetzt werden?
-* Auf jeder Seite, bei denen der Benutzer schnell auf die Eltern-Seite navigieren können soll.
+* Auf jeder Seite, bei denen die Benutzer*innen schnell auf die Eltern-Seite navigieren können sollen.
 
 
 ## 3. Regeln

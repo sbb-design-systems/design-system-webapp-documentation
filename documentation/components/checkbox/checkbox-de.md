@@ -9,7 +9,7 @@
 
 ## 3. Regeln 
 * Eine Checkbox ist nur innerhalb von Formularen erlaubt.
-* Mehrere Checkboxen können vertikal oder horizontal angeordnet werden. Die vertikal Anordnung wird bevorzugt, dadurch kann der Benutzer die Auswahlmöglichkeiten schneller erfassen.
+* Mehrere Checkboxen können vertikal oder horizontal angeordnet werden. Die vertikal Anordnung wird bevorzugt, dadurch können die Benutzer*innen die Auswahlmöglichkeiten schneller erfassen.
 * Horizontale Anordnung nur bei zwei bis drei Auswahlmöglichkeiten und kurzen Bezeichnungen.
 * Der Text kann mehrzeilig sein.
 * Nebst der eigentlich Checkbox dient auch der gesamte Text als Click-Target.

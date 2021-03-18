@@ -3,7 +3,7 @@
 
 
 ## 2. Wann soll die Komponente eingesetzt werden?
-* Wenn eine Anwendung eine oder mehrere Dateien eines Benutzers verlangt.
+* Wenn eine Anwendung eine oder mehrere Dateien der Benutzer*innen verlangt.
 
 
 ## 3. Regeln 

@@ -1,11 +1,11 @@
 ## 1. Was macht das Modul?
-* Erwirkt für spezifische Entscheidungen eine Handlung des Benutzers.
+* Erwirkt für spezifische Entscheidungen eine Handlung der Benutzer*innen.
 
 
 ## 2. Wann soll das Modul eingesetzt werden? 
-* Zur Anzeige von kritischen Informationen, welche der Benutzer bestätigen muss.
-* Zur Nachfrage von Aktionen, die der Benutzer bestätigen muss.
-* Zur Auswahl von Entscheidoptionen durch den Benutzer.
+* Zur Anzeige von kritischen Informationen, welche die Benutzer*innen bestätigen müssen.
+* Zur Nachfrage von Aktionen, welche die Benutzer*innen bestätigen müssen.
+* Zur Auswahl von Entscheidoptionen durch die Benutzer*innen.
 
 
 ## 3. Regeln
@@ -28,7 +28,7 @@
 ### 3.3 Inhalt
 * Im Header dürfen kontextbeschreibende Informationen stehen (beispielsweise die Zugnummer).
 * Der Inhalt des Dialogs ist komplett flexibel nutzbar, z.B.
-    * eine detaillierte Beschreibung der Situation und die klare Frage, die der Benutzer beantworten muss.
+    * eine detaillierte Beschreibung der Situation und die klare Frage, welche die Benutzer*innen beantworten müssen.
     * ein Formular, um ein komplexes Datenobjekt zu erstellen oder zu bearbeiten.
 
 ### 3.4 Aktionen
@@ -58,9 +58,9 @@ Diese Ausprägung hat folgende Zustände:
 ![Darstellung des Moduls Dialog in der Ausprägung Complex](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/modules/dialog/images/Dialog_Complex.png 'class: image')
 
 * Diese Ausprägung dient zur Erstellung oder Bearbeitung von komplexen Datenobjekten, wenn diese nicht direkt im Content der Applikation bearbeitet werden können.
-* Wenn der Benutzer den Dialog verwerfen möchte und ...
+* Wenn die Benutzer*innen den Dialog verwerfen möchten und ...
     * keine Änderungen vorgenommen wurden, wird das Dialogfeld geschlossen und es ist keine Bestätigung erforderlich.
-    * der Benutzer Änderungen vorgenommen hat, wird der Benutzer aufgefordert, die Verwerfungsaktion zu bestätigen.
+    * die Benutzer*innen Änderungen vorgenommen haben, werden die Benutzer*innen aufgefordert, die Verwerfungsaktion zu bestätigen.
 
 #### Design Spezifikation
 * [Valid / Not Valid](https://www.sketch.com/s/36ab4f9f-f7f8-436e-9d7e-0f2088e52e04/a/ZOW5MWJ#Inspector)

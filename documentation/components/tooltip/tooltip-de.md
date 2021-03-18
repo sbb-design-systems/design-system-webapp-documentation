@@ -1,5 +1,5 @@
 ## 1. Was macht die Komponente?
-* Erlaubt dem Benutzer bei Bedarf Erklärungen einzublenden.
+* Erlaubt den Benutzer*innen bei Bedarf Erklärungen einzublenden.
 
 
 ## 2. Wann soll die Komponente eingesetzt werden?
