@@ -27,31 +27,37 @@
 ## 4. Ausprägungen und Zustände 
 Die Komponente hat folgende Zustände:
 * Default
+* Hinted
 * Focused
 * Disabled
 * Error
+* Mandatory
 
 ### 4.1 Standard
-![Darstellung der Komponente Datumsauswahl in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/dateinput_default.png 'class: image')
+![Darstellung der Komponente Datumsauswahl in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/Dateinput_Default.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318424/inspect)
-* [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355318425/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318426/inspect)
-* [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318427/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/QqD1rL#Inspector)
+* [Hinted](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/jggqqgm#Inspector)
+* [Focused](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/xz0QdJ#Inspector)
+* [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/EAeG9d#Inspector)
+* [Error](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/j14rDm#Inspector)
+* [Mandatory](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/dllqqlL#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/datepicker)
 
 ### 4.2 Mit Blätterfunktion
-![Darstellung der Komponente Datumsauswahl mit Blätterfunktion](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/dateinput_pageable.png 'class: image')
+![Darstellung der Komponente Datumsauswahl mit Blätterfunktion](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/Dateinput_Pageable.png 'class: image')
 * Die Navigationspfeile werden nur dargestellt, wenn auch ein vorangehendes/nachfolgende Datum gewählt werden kann.
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318428/inspect)
-* [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355318429/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318430/inspect)
-* [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318431/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/dAgjvL#Inspector)
+* [Hinted](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/zxxOOxM#Inspector)
+* [Focused](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/zJyKZM#Inspector)
+* [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/ZZVnR3#Inspector)
+* [Error](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/JRAJrk#Inspector)
+* [Mandatory](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/ZOO55O3#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/datepicker)
@@ -63,14 +69,15 @@ Die Komponente hat folgende Zustände:
 * Sind beide Daten gewählt, wird im Kalender der gewählte Bereich farblich hinterlegt.
 
 ### 4.4 Geburtsdatum
-![Darstellung der Komponente Datumsauswahl zur Eingabe eines Geburtstages](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/dateinput_birthdate.png 'class: image')
+![Darstellung der Komponente Datumsauswahl zur Eingabe eines Geburtstages](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/Dateinput_Birthdate.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318432/inspect)
-* [Hinted](https://sbb.invisionapp.com/d/main#/console/17140415/355318433/inspect)
-* [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355318434/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318435/inspect)
-* [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318436/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/vjRQy4#Inspector)
+* [Hinted](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/47o5vD#Inspector)
+* [Focused](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/e0ld4P#Inspector)
+* [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/GlodxO#Inspector)
+* [Error](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/OKeR8m#Inspector)
+* [Mandatory](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/Jnnppnk#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/datepicker)
@@ -85,12 +92,12 @@ Die Tab-Reihenfolge innerhalb des Kalender-Layers ist wie folgt defniert:
 5. Bereich der einzelnen Tage. Wenn der Fokus im Bereich der Tage liegt, kann mittels Pfeiltasten links, rechts, auf und ab innerhalb der Tage navigiert werden.
 
 #### Design Spezifikation
-* [Keine Auswahl](https://sbb.invisionapp.com/d/main#/console/17140415/355318437/inspect)
-* [Datum gewählt](https://sbb.invisionapp.com/d/main#/console/17140415/355318438/inspect)
-* [Datum mir Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318439/inspect)
-* [Auswahleinschränkungen](https://sbb.invisionapp.com/d/main#/console/17140415/355318440/inspect)
-* [Datumsbereich innerhalb eines Monats](https://sbb.invisionapp.com/d/main#/console/17140415/355318441/inspect)
-* [Datumsbereich über Monatsgrenze](https://sbb.invisionapp.com/d/main#/console/17140415/355318442/inspect)
+* [Keine Auswahl](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/mYPKWP#Inspector)
+* [Datum gewählt](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/DaEwY4#Inspector)
+* [Datum mit Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/j14rQb#Inspector)
+* [Auswahleinschränkungen](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/dAgjmj#Inspector)
+* [Datumsbereich innerhalb eines Monats](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/zJyK3l#Inspector)
+* [Datumsbereich über Monatsgrenze](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/ZZVnjv#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/datepicker)

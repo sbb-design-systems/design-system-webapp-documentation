@@ -26,10 +26,10 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Tab](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/tab/images/tab_default.png 'class: image')
 
 #### Design Spezifikation
-* [Active](https://sbb.invisionapp.com/d/main#/console/17140415/355318571/inspect)
-* [Inactive](https://sbb.invisionapp.com/d/main#/console/17140415/355318572/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318573/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/395669804/inspect)
+* [Active](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/47o5dx#Inspector)
+* [Inactive](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/e0ldMz#Inspector)
+* [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/Glod4Y#Inspector)
+* [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/OKeRL8#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/tabs)

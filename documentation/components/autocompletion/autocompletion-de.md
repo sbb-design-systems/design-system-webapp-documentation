@@ -27,9 +27,9 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Autocomplete in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/autocompletion/images/autocompletion_default.png 'class: image')
 
 #### Design Spezifikation
-*   [Default](https://sbb.invisionapp.com/d/#/console/17140415/383359152/inspect)
-*   [Hover](https://sbb.invisionapp.com/d/#/console/17140415/383359153/inspect)
-*   [Active](https://sbb.invisionapp.com/d/main#/console/17140415/412262199/inspect)
+*   [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/8jVp57#Inspector)
+*   [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/2q7ekM#Inspector)
+*   [Active](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/MVmMnw#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/autocomplete)
@@ -39,8 +39,8 @@ Optional zur Standard-Ausprägung kann diese Variante eingesetzt werden, wenn ei
 ![Darstellung der Komponente Autocomplete mit Trefferanzeige](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/autocompletion/images/Autocompletion_Overflow.png 'class: image')
 
 #### Design Spezifikation
-*   [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318376/inspect)
-*   [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318377/inspect)
+*   [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/5ynoWw#Inspector)
+*   [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/bDLaKJ#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/autocomplete)
@@ -49,8 +49,8 @@ Optional zur Standard-Ausprägung kann diese Variante eingesetzt werden, wenn ei
 ![Darstellung der Komponente Autocomplete mit statischen Einträgen](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/autocompletion/images/Autocompletion_Static.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318378/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318379/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/Wjdn3y#Inspector)
+* [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/3LoxEr#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/autocomplete)

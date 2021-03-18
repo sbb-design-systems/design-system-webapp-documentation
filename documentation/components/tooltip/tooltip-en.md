@@ -29,9 +29,9 @@ The component has the following statuses:
 ![Image of the tooltip component with textbox above it](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/tooltip/images/tooltip_above.png 'class: image')
 
 #### Design specification
-* [Hidden](https://sbb.invisionapp.com/d/main#/console/17140415/355318612/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318613/inspect)
-* [Visible](https://sbb.invisionapp.com/d/main#/console/17140415/355318614/inspect)
+* [Hidden](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/vjRQv1#Inspector)
+* [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/47o5bx#Inspector)
+* [Visible](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/e0ldqz#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/tooltip)
@@ -40,9 +40,9 @@ The component has the following statuses:
 ![Image of the tooltip component with the textbox below it](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/tooltip/images/tooltip_underneath.png 'class: image')
 
 #### Design specification
-* [Hidden](https://sbb.invisionapp.com/d/main#/console/17140415/355318612/inspect)
-* [Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318613/inspect)
-* [Visible](https://sbb.invisionapp.com/d/main#/console/17140415/355318615/inspect)
+* [Hidden](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/vjRQv1#Inspector)
+* [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/47o5bx#Inspector)
+* [Visible](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/GlodpY#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/tooltip)

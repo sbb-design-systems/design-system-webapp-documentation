@@ -27,32 +27,38 @@
 ## 4. Variants and statuses
 The component has the following statuses:
 * Default
+* Hinted
 * Focused
 * Disabled
 * Error
+* Mandatory
 
 ### 4.1 Standard
-![Image of the date selection component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/dateinput_default.png 'class: image')
+![Image of the date selection component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/Dateinput_Default.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318424/inspect)
-* [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355318425/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318426/inspect)
-* [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318427/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/QqD1rL#Inspector)
+* [Hinted](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/jggqqgm#Inspector)
+* [Focused](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/xz0QdJ#Inspector)
+* [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/EAeG9d#Inspector)
+* [Error](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/j14rDm#Inspector)
+* [Mandatory](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/dllqqlL#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/datepicker)
 
 
 ### 4.2 With scroll function
-![Image of the date selection component with scroll function](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/dateinput_pageable.png 'class: image')
+![Image of the date selection component with scroll function](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/Dateinput_Pageable.png 'class: image')
 * The navigation arrows are only shown if a preceding/subsequent date can be selected.
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318428/inspect)
-* [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355318429/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318430/inspect)
-* [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318431/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/dAgjvL#Inspector)
+* [Hinted](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/zxxOOxM#Inspector)
+* [Focused](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/zJyKZM#Inspector)
+* [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/ZZVnR3#Inspector)
+* [Error](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/JRAJrk#Inspector)
+* [Mandatory](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/ZOO55O3#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/datepicker)
@@ -64,14 +70,15 @@ The component has the following statuses:
 * If both dates are shown, the selected range is entered in the calendar in colour.
 
 ### 4.4 Date of birth
-![Image of the date selection component for entry of a date of birth](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/dateinput_birthdate.png 'class: image')
+![Image of the date selection component for entry of a date of birth](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/Dateinput_Birthdate.png 'class: image')
 
 #### Design specification
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318432/inspect)
-* [Hinted](https://sbb.invisionapp.com/d/main#/console/17140415/355318433/inspect)
-* [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355318434/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318435/inspect)
-* [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318436/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/vjRQy4#Inspector)
+* [Hinted](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/47o5vD#Inspector)
+* [Focused](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/e0ld4P#Inspector)
+* [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/GlodxO#Inspector)
+* [Error](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/OKeR8m#Inspector)
+* [Mandatory](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/Jnnppnk#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/datepicker)
@@ -86,12 +93,12 @@ The tab sequence within the calender layer is defined as follows:
 5. range of the individual days. If the focus is on the range of days, it is possible to navigate left, right, up and down within the days using the arrow keys.
 
 #### Design specification
-* [No selection](https://sbb.invisionapp.com/d/main#/console/17140415/355318437/inspect)
-* [Date selected](https://sbb.invisionapp.com/d/main#/console/17140415/355318438/inspect)
-* [Date with hover](https://sbb.invisionapp.com/d/main#/console/17140415/355318439/inspect)
-* [Selection restrictions](https://sbb.invisionapp.com/d/main#/console/17140415/355318440/inspect)
-* [Date range within a month](https://sbb.invisionapp.com/d/main#/console/17140415/355318441/inspect)
-* [Date range beyond a month](https://sbb.invisionapp.com/d/main#/console/17140415/355318442/inspect)
+* [No selection](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/mYPKWP#Inspector)
+* [Date selected](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/DaEwY4#Inspector)
+* [Date with hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/j14rQb#Inspector)
+* [Selection restrictions](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/dAgjmj#Inspector)
+* [Date range within a month](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/zJyK3l#Inspector)
+* [Date range beyond a month](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/ZZVnjv#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/datepicker)

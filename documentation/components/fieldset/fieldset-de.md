@@ -20,10 +20,10 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Fieldset in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/fieldset/images/fieldset_default.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318443/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/JRAJKM#Inspector)
 
 ### 4.2 Verschachteltes Fieldset
 ![Darstellung der Komponente Fieldset mit verschachteltem Inhalt](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/fieldset/images/fieldset_nested.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318444/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/vjRQM1#Inspector)
