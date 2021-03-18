@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/sbb-design-systems/design-system-webapp-documentation/compare/v1.1.1...v1.2.0) (2021-03-18)
+
+
+### Features
+
+* add divider for table and mobile ([#46](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/46)) ([d8285a4](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/d8285a45d17ab4934e94f77be28f0a22c2bf994e))
+
+
+### Bug Fixes
+
+* correct styling of usermenu ([#48](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/48)) ([d0c080d](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/d0c080db5b511eac22b3a89dee0c6176e099383f))
+
 ### [1.1.1](https://github.com/sbb-design-systems/design-system-webapp-documentation/compare/v1.1.0...v1.1.1) (2020-12-10)
 
 
