@@ -10,6 +10,10 @@ All notable changes to this project will be documented in this file. See [standa
 * add variant 'text' to component 'status' ([#52](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/52)) ([83e7287](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/83e72875184873af74031e9d8415ae343470a1b2))
 * extend the module dialog with splitting variants into a simple and a complex one and add more rules ([#51](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/51)) ([c0e9dad](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/c0e9dadcffc7113a6e8bc494e7a7be913fc1d384)), closes [#35](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/35)
 
+
+### Documentation
+* adapt german documentation with usage of gender-neutral notation ([#53](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/53)) ([cc77af8](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/cc77af81d775208fe1831b76da7f012c0597fdda))
+
 ## [1.2.0](https://github.com/sbb-design-systems/design-system-webapp-documentation/compare/v1.1.1...v1.2.0) (2021-03-18)
 
 
