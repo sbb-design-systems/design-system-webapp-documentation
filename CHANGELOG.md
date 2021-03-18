@@ -8,6 +8,7 @@ All notable changes to this project will be documented in this file. See [standa
 ### Features
 
 * add divider for table and mobile ([#46](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/46)) ([d8285a4](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/d8285a45d17ab4934e94f77be28f0a22c2bf994e))
+* add definitions for mandatory fields ([#47](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/47)) ([917eca2](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/917eca27a5c239ee97e394ba397cdb41ac3678dc))
 
 
 ### Bug Fixes
