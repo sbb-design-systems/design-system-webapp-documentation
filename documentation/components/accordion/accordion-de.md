@@ -28,8 +28,8 @@ Die Komponente hat die folgende Zustände:
 ![Darstellung der Komponente Accordion](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/accordion/images/accordion_default.png 'class: image')
 
 #### Design Spezifikation
-*   [Collapsed](https://sbb.invisionapp.com/d/main#/console/17140415/355318374/inspect)
-*   [Expanded](https://sbb.invisionapp.com/d/main#/console/17140415/355318375/inspect)
+*   [Collapsed](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/Pw1oAQ#Inspector)
+*   [Expanded](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/gk1ZJz#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/accordion)

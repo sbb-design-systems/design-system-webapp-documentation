@@ -28,7 +28,7 @@ The component has the following statuses:
 ![Image of the table component in the standard variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/table/images/table_default.png 'class: image')
 
 #### Design specification
-* [Default / Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355362889/inspect)
+* [Default / Hover](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/VPJjLr#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
@@ -37,7 +37,7 @@ The component has the following statuses:
 ![Image of the table component with grouped content](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/table/images/table_grouped.png 'class: image')
 
 #### Design specification
-* [Default / Hover](https://sbb.invisionapp.com/d/main#/console/17140415/355362890/inspect)
+* [Default / Hover](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/Yze49Z#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
@@ -50,7 +50,7 @@ This variant has the following statuses:
 ![Image of the table component with sorting](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/table/images/table_sortable.png 'class: image')
 
 #### Design specification
-* [Default / Hover / Sorted / Unsorted](https://sbb.invisionapp.com/d/main#/console/17140415/355362891/inspect)
+* [Default / Hover / Sorted / Unsorted](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/K17VlA#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)

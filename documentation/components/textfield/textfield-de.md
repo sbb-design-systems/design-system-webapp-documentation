@@ -23,16 +23,18 @@ Das Element hat folgende Zustände:
 * Focused
 * Disabled
 * Error
+* Mandatory
 
 ### 4.1 Standard
-![Darstellung der Komponente Textfeld in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/textfield/images/textfield_default.png 'class: image')
+![Darstellung der Komponente Textfeld in der Standard Ausprägung](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/textfield/images/Textfield_Default.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318592/inspect)
-* [Hinted](https://sbb.invisionapp.com/d/main#/console/17140415/355318593/inspect)
-* [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355318594/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318595/inspect)
-* [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318596/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/Pw1oL8#Inspector)
+* [Hinted](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/gk1ZRj#Inspector)
+* [Focused](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/8jVpv8#Inspector)
+* [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/2q7erA#Inspector)
+* [Error](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/MVmMa7#Inspector)
+* [Mandatory](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/5ynozd#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/field)
@@ -42,7 +44,7 @@ Das Element hat folgende Zustände:
 * Das Eingabefeld in der Ausprägung «Passwort» stellt keinen Zustand «Hinted» zur Verfügung.
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318596/inspect)
-* [Focused](https://sbb.invisionapp.com/d/main#/console/17140415/355318597/inspect)
-* [Disabled](https://sbb.invisionapp.com/d/main#/console/17140415/355318598/inspect)
-* [Error](https://sbb.invisionapp.com/d/main#/console/17140415/355318600/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/bDLaWj#Inspector)
+* [Focused](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/WjdnLk#Inspector)
+* [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/3Loxjm#Inspector)
+* [Error](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/r79reA#Inspector)

@@ -19,11 +19,11 @@ Die Komponente hat folgende Zustände:
 * Diese Ausprägung dient als platzsparende Variante, welche z.B. in einer Tabelle eingesetzt werden kann.
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/394674923/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/JRAJOM#Inspector)
 
 ### 4.2 Extended 
 ![Darstellung eines Beispiels der Komponente Status mit Icon und Text](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/status/images/Status_Extended.png 'class: image')
 * Diese Ausprägung soll vor allem in der Detailansicht eines Objekts eingesetzt werden.
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/394674924/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/vjRQD1#Inspector)

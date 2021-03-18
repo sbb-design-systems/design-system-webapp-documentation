@@ -23,8 +23,8 @@ Das Modul hat folgende Zustände:
 ![Darstellung des Moduls Dialog](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/modules/dialog/images/dialog_default.png 'class: image')
 
 #### Design Spezifikation
-* [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318666/inspect)
-* Glass: [Default](https://sbb.invisionapp.com/d/main#/console/17140415/355318667/inspect)
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/JRAJp5#Inspector)
+* Glass: [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/vjRQvb#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/dialog)
