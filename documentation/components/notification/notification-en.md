@@ -67,3 +67,11 @@ The component has the following statuses:
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/notification)
+
+
+### 4.6 Notification Toast
+* Notifications can be displayed directly within the content area (e.g. due to form validation). However, "flying in" toasts can also be used for notifications.
+* The display duration until automatic disappearance can now be defined according to the use case. To this end, toasts can also be configured not to disappear automatically.
+
+#### Code specification
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/notification-toast)

@@ -67,3 +67,11 @@ Die Komponente hat folgende Zustände:
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/notification)
+
+
+### 4.6 Notification Toast
+* Benachrichtigungen können einerseits direkt innerhalb des Contentbereichs angezeigt werden (z.B. aufgrund einer Form-Validierung). Für Benachrichtigungen können aber auch "einfliegende" Toasts verwendet werden.
+* Die Anzeigedauer bis zum automatischen Verschwinden kann jetzt nach Anwendungsfall definiert werden. Dahingehend können Toasts auch konfiguriert werden, dass sie nicht automatisch verschwinden.
+
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/notification-toast)
