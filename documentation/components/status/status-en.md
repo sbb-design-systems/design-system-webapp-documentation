@@ -7,7 +7,7 @@
 
 
 ## 3. Rules
-* The colours and icons for various statuses are determined on an application-specific basis.
+* The images below show examples of statuses. The statuses are defined specifically for each application and the [colours](https://digital.sbb.ch/en/brand_elemente/farben) and [icons](https://digital.sbb.ch/en/brand_elemente/icons) are therefore also selected appropriately.
 
 
 ## 4. Variants and statuses

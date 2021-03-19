@@ -7,7 +7,7 @@
 
 
 ## 3. Regeln
-* Die Farben und Icons für die verschiedenen Zustände werden applikationsspezifisch festgelegt.
+* Die unten dargestellten Bilder zeigen Beispiele für Status. Die Zustände werden jeweils applikationsspezifisch festgelegt und damit auch die [Farben](https://digital.sbb.ch/de/brand_elemente/farben) und [Icons](https://digital.sbb.ch/de/brand_elemente/icons) passend gewählt.
 
 
 ## 4. Ausprägungen und Zustände
