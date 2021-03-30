@@ -75,7 +75,7 @@ This variant has the following statuses:
 
 ![Image of the table component in the variant filterable](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/table/images/Table_Filterable.png 'class: image')
 
-* The individual columns can be filtered according to content type (text, date, value, etc.) using the appropriate components.
+* The individual columns can be filtered according to content type (text, date, value, etc.) using the appropriate components  ([Textfield](https://digital.sbb.ch/en/webapps/components/textfield), [Datepicker](https://digital.sbb.ch/en/webapps/components/datepicker), [Select](https://digital.sbb.ch/en/webapps/components/select), etc.).
 * A separate [filter](https://digital.sbb.ch/en/webapps/modules/filter) can also be used to restrict large amounts of data.
 
 #### Design specification

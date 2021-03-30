@@ -75,7 +75,7 @@ Diese Ausprägung hat folgende Zustände:
 
 ![Darstellung der Komponente Tabelle in der Ausprägung Filterbar](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/table/images/Table_Filterable.png 'class: image')
 
-* Die einzelnen Spalten können je nach Inhaltstyp (Text, Datum, Wert etc.) mittels den passenden Komponenten gefiltert werden.
+* Die einzelnen Spalten können je nach Inhaltstyp (Text, Datum, Wert etc.) mittels den passenden Komponenten ([Textfield](https://digital.sbb.ch/de/webapps/components/textfield), [Datepicker](https://digital.sbb.ch/de/webapps/components/datepicker), [Select](https://digital.sbb.ch/de/webapps/components/select) etc.) gefiltert werden.
 * Es kann auch ein übergreifender [Filter](https://digital.sbb.ch/de/webapps/modules/filter) zum Einschränken von grossen Datenmengen eingesetzt werden.
 
 #### Design Spezifikation
