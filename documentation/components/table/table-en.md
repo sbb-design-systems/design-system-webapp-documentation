@@ -15,7 +15,7 @@
 * Units of measurement in content are ideally entered on the second line of the column header. Alternatively, they can appear directly next to the column header name in round brackets.
 * Horizontal scrolling should be avoided as far as possible.
 * Columns can be put into logical groups. There is no dividing line between grouped columns.
-
+* Large amounts of data can be divided up using [Pagination](https://digital.sbb.ch/en/webapps/components/pagination). Alternatively, infinite scrolling can be used if required.
 
 ## 4. Variants and statuses
 The component has the following statuses:
@@ -77,6 +77,7 @@ This variant has the following statuses:
 
 * The individual columns can be filtered according to content type (text, date, value, etc.) using the appropriate components  ([Textfield](https://digital.sbb.ch/en/webapps/components/textfield), [Datepicker](https://digital.sbb.ch/en/webapps/components/datepicker), [Select](https://digital.sbb.ch/en/webapps/components/select), etc.).
 * A separate [filter](https://digital.sbb.ch/en/webapps/modules/filter) can also be used to restrict large amounts of data.
+* It is advisable to display the number of filtered items to the users, e.g. "34 out of 3890".
 
 #### Design specification
 * [Default](https://www.sketch.com/s/36ab4f9f-f7f8-436e-9d7e-0f2088e52e04/a/PGRjqjP#Inspector)

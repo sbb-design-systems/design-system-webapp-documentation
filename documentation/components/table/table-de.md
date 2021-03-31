@@ -15,7 +15,7 @@
 * Masseinheiten von Inhalten werden optimalerweise auf der zweiten Zeile des Spaltenheaders eingefügt. Alternativ können sie direkt neben der Spaltenheader-Bezeichnung in runden Klammern angezeigt.
 * Horizontales Scrolling sollte wo möglich vermieden werden.
 * Spalten können zu logischen Gruppen zusammengefasst werden. Zwischen gruppierten Spalten gibt es keine Trennlinie.
-
+* Mittels [Pagination](https://digital.sbb.ch/de/webapps/components/pagination) können grosse Datenmengen aufgeteilt werden. Alternativ kann je nach Bedarf auch ein Infinite Scrolling verwendet werden.
 
 ## 4. Ausprägungen und Zustände
 Die Komponente hat folgende Zustände:
@@ -77,6 +77,7 @@ Diese Ausprägung hat folgende Zustände:
 
 * Die einzelnen Spalten können je nach Inhaltstyp (Text, Datum, Wert etc.) mittels den passenden Komponenten ([Textfield](https://digital.sbb.ch/de/webapps/components/textfield), [Datepicker](https://digital.sbb.ch/de/webapps/components/datepicker), [Select](https://digital.sbb.ch/de/webapps/components/select) etc.) gefiltert werden.
 * Es kann auch ein übergreifender [Filter](https://digital.sbb.ch/de/webapps/modules/filter) zum Einschränken von grossen Datenmengen eingesetzt werden.
+* Es empfiehlt sich, die Anzahl der gefilterten Elemente den Benutzer*innen anzuzeigen, z.B. "34 von 3890"
 
 #### Design Spezifikation
 * [Default](https://www.sketch.com/s/36ab4f9f-f7f8-436e-9d7e-0f2088e52e04/a/PGRjqjP#Inspector)
