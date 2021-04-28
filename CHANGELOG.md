@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/sbb-design-systems/design-system-webapp-documentation/compare/v1.3.0...v1.4.0) (2021-04-28)
+
+
+### Features
+
+* enhancements for component table ([#54](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/54)) ([018d786](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/018d7862f4d5c3a33d86a7994bf9445394fcd7cb)), closes [#23](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/23) [#24](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/24)
+
+
+### Documentation
+
+* clarify description of component 'status', that they should be defined application-specific ([cb31276](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/cb312761f7647cadfdcf6166a87898a4a11af0ba))
+
 ## [1.3.0](https://github.com/sbb-design-systems/design-system-webapp-documentation/compare/v1.2.0...v1.3.0) (2021-03-18)
 
 
