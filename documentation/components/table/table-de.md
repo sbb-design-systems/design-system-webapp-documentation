@@ -16,6 +16,7 @@
 * Horizontales Scrolling sollte wo möglich vermieden werden.
 * Spalten können zu logischen Gruppen zusammengefasst werden. Zwischen gruppierten Spalten gibt es keine Trennlinie.
 * Mittels [Pagination](https://digital.sbb.ch/de/webapps/components/pagination) können grosse Datenmengen aufgeteilt werden. Alternativ kann je nach Bedarf auch ein Infinite Scrolling verwendet werden.
+* Tastaturbedienung: Zwischen den Zeilen kann mittels Pfeiltasten (hoch, runter) navigiert werden.
 
 ## 4. Ausprägungen und Zustände
 Die Komponente hat folgende Zustände:
@@ -68,7 +69,7 @@ Diese Ausprägung hat folgende Zustände:
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
 
-### 4.5 Filterbar
+### 4.5 Filtrierbar
 Diese Ausprägung hat folgende Zustände:
 * Unfiltered
 * Filtered
@@ -86,14 +87,34 @@ Diese Ausprägung hat folgende Zustände:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
 
 ### 4.6 Inline Aktionen
-![Darstellung der Komponente Tabelle in der Ausprägung mit Inline Aktionen](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/table/images/Table_Actions.png 'class: image')
+![Darstellung der Komponente Tabelle in der Ausprägung mit Inline Aktionen](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/table/images/Table_Inline_Actions.png 'class: image')
 
-* Beim Hover über Zeilen können Aktionen auf den Elementen angeboten werden.
-* Die Aktionen werden mittels [Icon Button](https://digital.sbb.ch/de/webapps/components/button) angeboten. Sie sind ganz rechts in der Tabelle angeordnet und überlagern die letzte Spalte.
+* Beim Hover über Zeilen bzw. Fokussierung mittels Tab-Navigation über die Tastatur können Aktionen auf den Elementen angeboten werden.
+* Die Aktionen werden mittels [Icon Button](https://digital.sbb.ch/de/webapps/components/button) angeboten. Je nach Anwendungsfall wird entschieden, in welcher Spalte (erste oder letzte Spalte) sie platziert werden. Dort überlagern sie jeweils den bestehenden Content.
 * Es sollen maximal 3 Aktionen angeboten werden. Braucht es mehr, sollte ein [Contextmenu](https://digital.sbb.ch/de/webapps/components/contextmenu) verwendet werden.
+* Tastaturbedienung: Bei Fokus auf einer Zeile der Tabelle kann mittels 'Tab' auf die Aktionen gesprungen werden.
 
 #### Design Spezifikation
 * [Default](https://www.sketch.com/s/36ab4f9f-f7f8-436e-9d7e-0f2088e52e04/a/g07K3Ka#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
+
+### 4.7 Übergreifende Aktionen
+![Darstellung der Komponente Tabelle in der Ausprägung mit übergreifenden Aktionen](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/table/images/Table_Batch_Actions.png 'class: image')
+
+* Bei (Mehrfach-)Selektion von Elementen können übergreifende Aktionen angeboten werden.
+* Für die Aktionen können alle Ausprägungen von [Buttons](https://digital.sbb.ch/de/webapps/components/button) verwendet werden.
+* Die primäre Aktion ist links, die sekundären Aktionen stehen rechts davon.
+* Es sollen maximal 3 Aktionen angeboten werden. Braucht es mehr, sollte ein [Contextmenu](https://digital.sbb.ch/de/webapps/components/contextmenu) verwendet werden.
+* Die übergreifenden Aktionen werden rechts oberhalb der Tabelle angeordnet.
+
+#### Design Spezifikation
+* [Default](https://www.sketch.com/s/36ab4f9f-f7f8-436e-9d7e-0f2088e52e04/a/zxl7l35#Inspector)
+
+#### Code Spezifikation
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
+
+
+## 5. Beispielanwendung
+![Darstellung eines Beispiels einer Tabelle mit Sortierung, Selektierung, Filterung, Paging und übergeordneten Aktionen](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/table/images/Table_Showcase.png 'class: image')

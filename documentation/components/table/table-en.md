@@ -16,6 +16,7 @@
 * Horizontal scrolling should be avoided as far as possible.
 * Columns can be put into logical groups. There is no dividing line between grouped columns.
 * Large amounts of data can be divided up using [Pagination](https://digital.sbb.ch/en/webapps/components/pagination). Alternatively, infinite scrolling can be used if required.
+* Keyboard operation: between the lines can be navigated using the arrow keys (up, down).
 
 ## 4. Variants and statuses
 The component has the following statuses:
@@ -86,14 +87,34 @@ This variant has the following statuses:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
 
 ### 4.6 Inline actions
-![Image of the table component in the variant with inline actions](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/table/images/Table_Actions.png 'class: image')
+![Image of the table component in the variant with inline actions](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/table/images/Table_Inline_Actions.png 'class: image')
 
-* When hovering over lines, actions can be offered on the elements.
-* The actions are offered by using [icon button](https://digital.sbb.ch/en/webapps/components/button). They are arranged on the far right of the table and overlay the last column.
-* A maximum of 3 actions should be offered. If more are needed, a [contextmenu](https://digital.sbb.ch/en/webapps/components/contextmenu) should be used.
+* When hovering over rows or focusing them using tab navigation via the keyboard, actions can be offered on the elements.
+* The actions are offered by using [Icon button](https://digital.sbb.ch/en/webapps/components/button). Depending on the use case, it is decided in which column (first or last column) they are placed. There they overlay the existing content.
+* A maximum of 3 actions should be offered. If more are needed, a [Contextmenu](https://digital.sbb.ch/en/webapps/components/contextmenu) should be used.
+* Keyboard operation: if the focus is on a row in the table, it's possible to navigate to the actions using 'Tab'-key of the keyboard.
 
 #### Design specification
 * [Default](https://www.sketch.com/s/36ab4f9f-f7f8-436e-9d7e-0f2088e52e04/a/g07K3Ka#Inspector)
 
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
+
+### 4.7 Batch actions
+![Image of the table component in the variant with batch actions](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/table/images/Table_Batch_Actions.png 'class: image')
+
+* Batch actions can be offered on selection of (multiple) elements.
+* All versions of [Buttons](https://digital.sbb.ch/en/webapps/components/button) can be used for the actions.
+* The primary action is on the left, the secondary actions are on the right.
+* A maximum of 3 actions should be offered. If more are needed, a [Contextmenu](https://digital.sbb.ch/en/webapps/components/contextmenu) should be used.
+* The batch actions are placed above the table on the right.
+
+#### Design specification
+* [Default](https://www.sketch.com/s/36ab4f9f-f7f8-436e-9d7e-0f2088e52e04/a/zxl7l35#Inspector)
+
+#### Code specification
+* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
+
+
+## 5. Example application
+![Image of an example of a table with sorting, selection, filtering, paging and batch actions](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/table/images/Table_Showcase.png 'class: image')
