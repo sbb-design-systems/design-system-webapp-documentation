@@ -3,15 +3,15 @@
 
 
 ## 2. Wann soll die Komponente eingesetzt werden?
-* Wenn ein Benutzer auf einer Seite eine Aktion ausgelöst hat und vom System ein Feedback erhalten soll.
-* Oder wenn ein technisches Problem besteht, das den Benutzer am Arbeiten hindert.
+* Wenn Benutzer*innen auf einer Seite eine Aktion ausgelöst haben und vom System ein Feedback erhalten soll.
+* Oder wenn ein technisches Problem besteht, das die Benutzer*innen am Arbeiten hindert.
 
 
 ## 3. Regeln
-* Notifications erscheinen immer erst nach dem Auslösen einer Aktion durch den Benutzer.
+* Notifications erscheinen immer erst nach dem Auslösen einer Aktion durch die Benutzer*innen.
 * Die Breite kann sich nach der Breite eines Formulars, dem ganzen Content-Bereich oder einer Standardbreite beim Ensatz als Toast richten.
 * Die Höhe richtet sich nach der Textlänge der Meldung.
-* Wird der Benutzer am Weiterarbeiten gehindert (durch einen Fehler), so wird die Applikation mittels Milchglas gesperrt. In diesem Fall kann auch die Notification nicht weggeklickt werden (das 'X' wird dann nicht angezeigt).
+* Werden die Benutzer*innen am Weiterarbeiten gehindert (durch einen Fehler), so wird die Applikation mittels Milchglas gesperrt. In diesem Fall kann auch die Notification nicht weggeklickt werden (das 'X' wird dann nicht angezeigt).
 
 
 ## 4. Ausprägungen und Zustände

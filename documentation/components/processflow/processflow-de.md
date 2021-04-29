@@ -1,14 +1,14 @@
 ## 1. Was macht die Komponente?
-* Dient zur Anzeige in welchem Schritt eines Prozesses sich ein Benutzer befindet.
+* Dient zur Anzeige in welchem Schritt eines Prozesses sich die Benutzer*innen befindet.
 
 
 ## 2. Wann soll die Komponente eingesetzt werden?
-* Bei sämtlichen Prozessen bei denen ein Benutzer mehrere Schritte/Seiten durchläuft um diesen abschliessen zu können.
+* Bei sämtlichen Prozessen bei denen die Benutzer*innen mehrere Schritte/Seiten durchlaufen um diesen abschliessen zu können.
 
 
 ## 3. Regeln
 * Der Processflow ist immer zuoberst, direkt nach dem [Breadcrumb](https://digital.sbb.ch/de/webapps/components/breadcrumb) (falls vorhanden) positioniert.
-* Der Benutzer kann im Processflow auf einen bereits durchlaufenen Prozesschritt zurücknavigieren.
+* Die Benutzer*innen können im Processflow auf einen bereits durchlaufenen Prozesschritt zurücknavigieren.
 * Vorwärtsnavigation im Prozess ist nur durch den Call-to-Action der entsprechenden Seite erlaubt. Ein Überspringen (vorwärts) von Schritten ist nicht erlaubt.
 
 
