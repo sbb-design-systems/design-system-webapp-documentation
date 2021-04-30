@@ -8,6 +8,8 @@
 
 ## 3. Regeln
 * Die Anzeige des aktuell gewählten Wertes im Textfeld ist optional.
+* Der Wert kann mittels Drag&Drop oder einem Klick auf den grauen Balken geändert werden.
+* Der Slider sollte nicht bei ganz grossen oder sehr kleinen Wertebereichen verwendet werden.
 
 
 ## 4. Ausprägungen und Zustände
@@ -29,6 +31,8 @@ Die Komponente hat folgende Zustände:
 * [Focused Slider](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/92ol5n#Inspector)
 * [Focused Textfield](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/wExnOA#Inspector)
 * [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/YVzYzO#Inspector)
+
+* Diese Ausprägung sollte v.a. bei unpräzisen Wertebereichen genutzt werden (z.B. "leise" - "laut", "wenig" - "viel")
 
 ### 4.2 Diskret
 ![Darstellung der Komponente Slider in der Ausprägung diskret](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/slider/images/Slider_Discrete.png 'class: image')
