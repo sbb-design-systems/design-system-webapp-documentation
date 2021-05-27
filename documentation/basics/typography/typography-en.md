@@ -1,5 +1,6 @@
 ## 1. Font
-The company font ‘SBB Web’ is used as a web font and in the styles Thin, Light, Roman and Bold.
+The company font «SBB Web» is used as a web font and in the styles Thin, Light, Roman and Bold.
+«SBB Web» can be downloaded [here](https://company.sbb.ch/de/ueber-die-sbb/profil/sbb-markenportal/basis/schrift.html).
 
 The use of a mono-spaced font is recommended for some applications.
 The font required is selected when used for the first time. The following fonts are currently available:
