@@ -30,7 +30,7 @@ The component has the following statuses:
 * Disabled Unchecked
 
 ### 4.1 Standard
-![Image of the checkbox component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/checkbox/images/checkbox_default.png 'class: image')
+![Image of the checkbox component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/checkbox/images/Checkbox_Default.png 'class: image')
 
 #### Design specification
 * [Checked](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/1wVPz5#Inspector)
