@@ -10,7 +10,7 @@
 
 
 ## 3. Rules
-* ...
+
 ### 3.1 Behaviour
 * Dialogs are displayed as modal windows in front of the application.
 * Dialogs disable all application functions and remain displayed until they have been confirmed, cancelled or a necessary action has been performed.
