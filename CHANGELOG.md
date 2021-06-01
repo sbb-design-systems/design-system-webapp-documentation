@@ -2,12 +2,54 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/sbb-design-systems/design-system-webapp-documentation/compare/v1.4.0...v1.5.0) (2021-06-01)
+
+
+### Features
+
+* add slider ([#57](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/57)) ([f458e0d](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/f458e0d54a519804e1b0804b1ce66611ec5522f5)), closes [#10](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/10)
+
+
+### Bug Fixes
+
+* correct images for secondary button, icon button, checkbox and filter tag. ([#56](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/56)) ([c09cd1e](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/c09cd1ef7f7b06befc54f48253730f912f66d2d8))
+
+
+### Documentation
+
+* link typography documentation to the download page of the referenced "SBB Web" font. ([#55](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/55)) ([1c8c3a3](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/1c8c3a3b3574242eb7b17aad0d6c9015ea4a94f2))
+
+## [1.4.0](https://github.com/sbb-design-systems/design-system-webapp-documentation/compare/v1.3.0...v1.4.0) (2021-04-28)
+
+
+### Features
+
+* enhancements for component table ([#54](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/54)) ([018d786](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/018d7862f4d5c3a33d86a7994bf9445394fcd7cb)), closes [#23](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/23) [#24](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/24)
+
+
+### Documentation
+
+* clarify description of component 'status', that they should be defined application-specific ([cb31276](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/cb312761f7647cadfdcf6166a87898a4a11af0ba))
+
+## [1.3.0](https://github.com/sbb-design-systems/design-system-webapp-documentation/compare/v1.2.0...v1.3.0) (2021-03-18)
+
+
+### Features
+
+* add variant 'text' to component 'status' ([#52](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/52)) ([83e7287](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/83e72875184873af74031e9d8415ae343470a1b2))
+* extend the module dialog with splitting variants into a simple and a complex one and add more rules ([#51](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/51)) ([c0e9dad](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/c0e9dadcffc7113a6e8bc494e7a7be913fc1d384)), closes [#35](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/35)
+
+
+### Documentation
+* adapt german documentation with usage of gender-neutral notation ([#53](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/53)) ([cc77af8](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/cc77af81d775208fe1831b76da7f012c0597fdda))
+
 ## [1.2.0](https://github.com/sbb-design-systems/design-system-webapp-documentation/compare/v1.1.1...v1.2.0) (2021-03-18)
 
 
 ### Features
 
 * add divider for table and mobile ([#46](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/46)) ([d8285a4](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/d8285a45d17ab4934e94f77be28f0a22c2bf994e))
+* add definitions for mandatory fields ([#47](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/47)) ([917eca2](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/917eca27a5c239ee97e394ba397cdb41ac3678dc))
 
 
 ### Bug Fixes

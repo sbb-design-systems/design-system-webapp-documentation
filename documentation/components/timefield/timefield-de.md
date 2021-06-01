@@ -3,7 +3,7 @@
 
 
 ## 2. Wann soll die Komponente eingesetzt werden?
-* Immer wenn vom Benutzer eine Uhrzeit verlangt wird.
+* Immer wenn von den Benutzer*innen eine Uhrzeit verlangt wird.
 
 
 ## 3. Regeln 

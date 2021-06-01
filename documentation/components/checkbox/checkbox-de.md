@@ -9,7 +9,7 @@
 
 ## 3. Regeln 
 * Eine Checkbox ist nur innerhalb von Formularen erlaubt.
-* Mehrere Checkboxen können vertikal oder horizontal angeordnet werden. Die vertikal Anordnung wird bevorzugt, dadurch kann der Benutzer die Auswahlmöglichkeiten schneller erfassen.
+* Mehrere Checkboxen können vertikal oder horizontal angeordnet werden. Die vertikal Anordnung wird bevorzugt, dadurch können die Benutzer*innen die Auswahlmöglichkeiten schneller erfassen.
 * Horizontale Anordnung nur bei zwei bis drei Auswahlmöglichkeiten und kurzen Bezeichnungen.
 * Der Text kann mehrzeilig sein.
 * Nebst der eigentlich Checkbox dient auch der gesamte Text als Click-Target.
@@ -30,7 +30,7 @@ Die Komponente hat folgende Zustände:
 * Disabled Unchecked
 
 ### 4.1 Standard
-![Darstellung der Komponente Checkbox](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/checkbox/images/checkbox_default.png 'class: image')
+![Darstellung der Komponente Checkbox](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/checkbox/images/Checkbox_Default.png 'class: image')
 
 #### Design Spezifikation
 * [Checked](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/1wVPz5#Inspector)

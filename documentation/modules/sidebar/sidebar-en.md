@@ -7,6 +7,11 @@
 
 
 ## 3. Rules
+
+### 3.1 Behaviour
+* On large screens (desktop and larger), the content area is reduced in width when the sidebar is expanded. For smaller screens (tablet, mobile), the content is covered by the expanded sidebar.
+
+### 3.2 Layout
 * The height of the navigation bar corresponds to the height of the complete content area.
 
 

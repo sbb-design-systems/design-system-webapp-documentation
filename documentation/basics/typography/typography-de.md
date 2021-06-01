@@ -1,5 +1,6 @@
 ## 1. Schrift
 Als Schriftart wird die Hausschrift «SBB Web» als Web-Font verwendet und in den Schnitten Thin, Light, Roman und Bold eingesetzt.
+«SBB Web» kann [hier](https://company.sbb.ch/de/ueber-die-sbb/profil/sbb-markenportal/basis/schrift.html) heruntergeladen werden.
 
 Für gewisse Anwendungsbereiche ist der Einsatz einer Monospaced Schrift sinnvoll.
 Bei erstem Bedarf wird die entsprechende Schrift ausgewählt. Aktuell stehen folgende zur Auswahl: 
@@ -91,10 +92,19 @@ Dieser Stil hat die folgende Zustände:
 
 
 ### 2.8 Tabellenheader Untertitel
+Dieser Stil hat die folgende Zustände:
+* Default
+* Hover
+* Sorted
+
 ![Darstellung des Stils eines Tabellenuntertitel](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/typography/images/Typo_Table_Subtitle.png 'class: image')
 
-#### Spezifikation
-* [Design](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/wdZKEA#Inspector)
+#### Design Spezifikation
+* [Default](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/wdZKEA#Inspector)
+* [Hover](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/eKkwLYp#Inspector)
+* [Sorted](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/GmwL0R8#Inspector)
+
+#### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
 
 

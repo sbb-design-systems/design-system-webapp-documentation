@@ -3,7 +3,7 @@
 
 
 ## 2. Wann soll die Komponente eingesetzt werden?
-* Wenn auf einem Objekt je nach Zustand oder Rolle des Benutzers Aktionen zur effizienten Ausführung angeboten werden sollen.
+* Wenn auf einem Objekt je nach Zustand oder Rolle den Benutzer*innen Aktionen zur effizienten Ausführung angeboten werden sollen.
 
 
 ## 3. Regeln

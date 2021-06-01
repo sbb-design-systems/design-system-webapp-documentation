@@ -4,7 +4,7 @@
 
 ## 2. Wann soll die Komponente eingesetzt werden?
 * Wenn innerhalb des gleichen Kontexts zwischen verschiedenen Aspekten gewechselt werden soll.
-* Wenn die Inhalte der verschiedenen Aspekte nicht gleichzeitig vom Benutzer angesehen werden.
+* Wenn die Inhalte der verschiedenen Aspekte nicht gleichzeitig von den Benutzer*innen angesehen werden müssen.
 
 
 ## 3. Regeln

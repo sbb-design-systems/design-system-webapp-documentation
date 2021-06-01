@@ -4,7 +4,7 @@
 
 ## 2. Wann soll die Komponente eingesetzt werden?
 * Wenn innerhalb des Content klare Untergruppen erstellt werden können.
-* Wenn die Untergruppen für den Benutzer zusätzliche Informationen zum Hauptinhalt bietet.
+* Wenn die Untergruppen für die Benutzer*innen zusätzliche Informationen zum Hauptinhalt bietet.
 * Hauptnutzinhalt des Contents sollte nicht in ein Akkordeon verpackt werden.
 
 

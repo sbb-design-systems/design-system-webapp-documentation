@@ -50,7 +50,7 @@ The component has the following statuses:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/button)
 
 ### 4.3 Secondary Button
-![Image of the secondary button component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/button/images/button_secondary.png 'class: image')
+![Image of the secondary button component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/button/images/Button_Secondary.png 'class: image')
 
 #### Design specification
 * [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/e0ldzP#Inspector)
@@ -74,7 +74,7 @@ The component has the following statuses:
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/button)
 
 ### 4.5 Icon Button
-![Image of the icon button component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/button/images/button_icon.png 'class: image')
+![Image of the icon button component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/button/images/Button_Icon.png 'class: image')
 
 #### Design specification
 * [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/DaEw94)

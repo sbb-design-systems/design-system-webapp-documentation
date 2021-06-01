@@ -3,7 +3,7 @@
 
 
 ## 2. Wann soll die Komponente eingesetzt werden?
-* Immer wenn vom Benutzer ein Datumswert verlangt wird.
+* Immer wenn von den Benutzer*innen ein Datumswert verlangt wird.
 
 
 ## 3. Regeln
@@ -65,7 +65,7 @@ Die Komponente hat folgende Zustände:
 ### 4.3 Datumsbereich
 * Um einen Datumsbereich zu wählen, werden zwei Datepicker kombiniert.
 * Wird das Von-Datum mittels Kalender-Layer gewählt und das Bis-Datum ist noch nicht definiert, öffnet sich der Kalender-Layer des Bis-Feldes. Wurde bereits ein Bis-Datum gewählt, öffnet sich der Kalender-Layer nicht.
-* Wählt der Benutzer ein Von-Datum > Bis-Datum, wird das Bis-Datum gelöscht und dessen Kalender-Layer eingeblendet.
+* Wählen die Benutzer*innen ein Von-Datum > Bis-Datum, wird das Bis-Datum gelöscht und dessen Kalender-Layer eingeblendet.
 * Sind beide Daten gewählt, wird im Kalender der gewählte Bereich farblich hinterlegt.
 
 ### 4.4 Geburtsdatum

@@ -1,5 +1,5 @@
 ## 1. Was macht die Komponente?
-Bietet dem Benutzer eine Auswahl aus zwei oder mehr Optionen an.
+Bietet den Benutzer*innen eine Auswahl aus zwei oder mehr Optionen an.
 
 
 ## 2. Wann soll die Komponente eingesetzt werden? 

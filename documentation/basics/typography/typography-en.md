@@ -1,5 +1,6 @@
 ## 1. Font
-The company font ‘SBB Web’ is used as a web font and in the styles Thin, Light, Roman and Bold.
+The company font «SBB Web» is used as a web font and in the styles Thin, Light, Roman and Bold.
+«SBB Web» can be downloaded [here](https://company.sbb.ch/de/ueber-die-sbb/profil/sbb-markenportal/basis/schrift.html).
 
 The use of a mono-spaced font is recommended for some applications.
 The font required is selected when used for the first time. The following fonts are currently available:
@@ -18,7 +19,7 @@ The font styles defined here form the basis of web applications and their compon
 
 * Before H1 (above), a [Divider](https://digital.sbb.ch/en/webapps/basics/divider) of variant «Big» is inserted, afterwards (below) a Divider of variant «Medium».
 
-#### specification
+#### Specification
 * [Design](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/lVLdvo#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
 
@@ -28,7 +29,7 @@ The font styles defined here form the basis of web applications and their compon
 
 * Before H2 (above), a [Divider](https://digital.sbb.ch/en/webapps/basics/divider) of variant «Medium» is inserted, afterwards (below) a Divider of variant «Small».
 
-#### specification
+#### Specification
 * [Design](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/kpqxJO#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
 
@@ -38,7 +39,7 @@ The font styles defined here form the basis of web applications and their compon
 
 * Before H3 (above), a [Divider](https://digital.sbb.ch/en/webapps/basics/divider) of variant «Small» is inserted, afterwards (below) a Divider of variant «Thin».
 
-#### specification
+#### Specification
 * [Design](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/ow9eGn#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
 
@@ -48,7 +49,7 @@ The font styles defined here form the basis of web applications and their compon
 
 * Before H4 (above), a [Divider](https://digital.sbb.ch/en/webapps/basics/divider) of variant «Small» is inserted, afterwards (below) a Divider of variant «Thin».
 
-#### specification
+#### Specification
 * [Design](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/RLj50Q#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
 
@@ -58,7 +59,7 @@ The font styles defined here form the basis of web applications and their compon
 
 * Before the copy (above), a [Divider](https://digital.sbb.ch/en/webapps/basics/divider) of variant «Thin» is inserted, afterwards (below) a Divider of variant «Thin».
 
-#### specification
+#### Specification
 * [Design](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/1wdaka#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
 
@@ -68,7 +69,7 @@ The font styles defined here form the basis of web applications and their compon
 * Is used as a standard link within texts.
 * Further information about links can be found at [Link](https://digital.sbb.ch/en/webapps/components/link). 
 
-#### specification
+#### Specification
 * [Design](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/pqPOkr#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
 
@@ -81,27 +82,36 @@ This style has the following statuses:
 
 ![Image of the table header font style](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/typography/images/typo_table_header.png 'class: image')
 
-#### design specification
+#### Design specification
 * [Default](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/VPJjLr#Inspector)
 * [Hover](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/Yze49Z#Inspector)
 * [Sorted](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/K17VlA#Inspector)
 
-#### code specification
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
 
 
 ### 2.8 Table subtitle
-![Image of the table header font style](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/typography/images/Typo_Table_Subtitle.png 'class: image')
+This style has the following statuses:
+* Default
+* Hover
+* Sorted
 
-#### specification
-* [Design](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/wdZKEA#Inspector)
+![Image of the table subtitle font style](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/typography/images/Typo_Table_Subtitle.png 'class: image')
+
+#### Design specification
+* [Default](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/wdZKEA#Inspector)
+* [Hover](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/eKkwLYp#Inspector)
+* [Sorted](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/GmwL0R8#Inspector)
+
+#### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
 
 
 ### 2.9 Table rowtitle
 ![Image of the table header font style](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/typography/images/Typo_Table_Rowtitle.png 'class: image')
 
-#### specification
+#### Specification
 * [Design](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/qLgDoV#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
 
@@ -109,6 +119,6 @@ This style has the following statuses:
 ### 2.10 Table data
 ![Image of the table data font style](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/basics/typography/images/typo_table_data.png 'class: image')
 
-#### specification
+#### Specification
 * [Design](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/LpyKkl#Inspector)
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
