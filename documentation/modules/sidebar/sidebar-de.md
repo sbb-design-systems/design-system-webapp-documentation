@@ -7,6 +7,10 @@
 
 
 ## 3. Regeln
+### 3.1 Verhalten
+* Bei grossen Screens (Desktop und grösser) wird beim Ausklappen der Sidebar der Contentbereich in der Breite verkleinert. Bei kleineren Screens (Tablet, Mobile) wird der Content überdeckt durch die ausgeklappte Sidebar.
+
+### 3.2 Layout
 * Die Höhe der Navigationsleiste entspricht der Höhe des kompletten Contentbereichs.
 
 
