@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/sbb-design-systems/design-system-webapp-documentation/compare/v1.4.0...v1.5.0) (2021-06-01)
+
+
+### Features
+
+* add slider ([#57](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/57)) ([f458e0d](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/f458e0d54a519804e1b0804b1ce66611ec5522f5)), closes [#10](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/10)
+
+
+### Bug Fixes
+
+* correct images for secondary button, icon button, checkbox and filter tag. ([#56](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/56)) ([c09cd1e](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/c09cd1ef7f7b06befc54f48253730f912f66d2d8))
+
+
+### Documentation
+
+* link typography documentation to the download page of the referenced "SBB Web" font. ([#55](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/55)) ([1c8c3a3](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/1c8c3a3b3574242eb7b17aad0d6c9015ea4a94f2))
+
 ## [1.4.0](https://github.com/sbb-design-systems/design-system-webapp-documentation/compare/v1.3.0...v1.4.0) (2021-04-28)
 
 
