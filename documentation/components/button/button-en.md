@@ -82,5 +82,14 @@ The component has the following statuses:
 * [On-Click](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/AOZR9R)
 * [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/0KA7dG)
 
+* When hovering over an icon button, a [tooltip](https://digital.sbb.ch/en/webapps/components/tooltip) should be used to make the underlying action clearer.
+
 #### Code specification
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/button)
+
+### 4.6 Multiple actions
+![Image of the button component where multiple actions are available](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/button/images/Button_More_Actions.png 'class: image')
+
+* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/aLZ37A#Inspector)
+* [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/OmnVV5v#Inspector)
+* [Expanded](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/A57mEx#Inspector)
