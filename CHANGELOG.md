@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.6.0](https://github.com/sbb-design-systems/design-system-webapp-documentation/compare/v1.5.0...v1.6.0) (2021-06-03)
+
+
+### Features
+
+* add additional variants for button ([#59](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/59)) ([84d47ff](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/84d47ff4f901446facecb8037a6a2d42be29d5eb)), closes [#4](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/4)
+* add tree ([#58](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/58)) ([cb29dd0](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/cb29dd0413775dde32dabb614e9b4aef77729752)), closes [#1](https://github.com/sbb-design-systems/design-system-webapp-documentation/issues/1)
+
+
+### Bug Fixes
+
+* add tooltip for icon button to improve comprehensibility of the underlying action ([4db030a](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/4db030a7b9c0adb3aa985aa2bf8c43d961ecbec7))
+
+
+### Documentation
+
+* add documentation for behaviour for sidebar ([ef6abb1](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/ef6abb1a653c282b7da017644f5f2b02403eabd5))
+
 ## [1.5.0](https://github.com/sbb-design-systems/design-system-webapp-documentation/compare/v1.4.0...v1.5.0) (2021-06-01)
 
 
