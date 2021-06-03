@@ -16,7 +16,7 @@
 ## 4. Variants and statuses
 
 ### 4.1 Default
-![Display of the module buttonbar](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/button/images/Buttonbar_Default.png 'class: image')
+![Display of the module buttonbar](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/modules/buttonbar/images/Buttonbar_Default.png 'class: image')
 
 #### Design specification
 * [Default](https://www.sketch.com/s/36ab4f9f-f7f8-436e-9d7e-0f2088e52e04/a/g0o89Jz#Inspector)
