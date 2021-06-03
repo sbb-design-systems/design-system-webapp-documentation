@@ -61,6 +61,7 @@ Die Komponente hat folgende Zustände:
 
 #### Design Spezifikation
 * [Expanded](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/dAgjMj#Inspector)
+* [Expanded Tree](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/m4Ye4w#Inspector)
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/select)
