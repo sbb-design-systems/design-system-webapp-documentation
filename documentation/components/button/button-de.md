@@ -36,6 +36,10 @@ Die Komponente hat folgende Zustände:
 * [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/j14rem#Inspector)
 * [On-Click](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/dAgjdL#Inspector)
 * [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/zJyKkM#Inspector)
+* [Default](https://www.sketch.com/s/90164eef-96b8-487f-be99-e61e0bf7916d/a/34x0Yw#Inspector 'class: hide')
+* [Hover](https://www.sketch.com/s/90164eef-96b8-487f-be99-e61e0bf7916d/a/rvrZPP#Inspector 'class: hide')
+* [On-Click](https://www.sketch.com/s/90164eef-96b8-487f-be99-e61e0bf7916d/a/ndDbPk#Inspector 'class: hide')
+* [Disabled](https://www.sketch.com/s/90164eef-96b8-487f-be99-e61e0bf7916d/a/QJ1e3Y#Inspector 'class: hide')
 
 #### Code Spezifikation
 * [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/button)
