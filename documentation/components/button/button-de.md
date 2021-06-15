@@ -25,8 +25,11 @@ Die Komponente hat folgende Zustände:
 * On-click
 * Disabled
 
+<label class="switch" style="display:none"><input type="checkbox"><span class="slider round"></span></label>
+
 ### 4.1 Primary Button
 ![Darstellung der Komponente Primary Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/button/images/button_primary.png 'class: image')
+![Darstellung der Komponente Primary Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/button/images/button_primary.png 'class: image hide')
 
 #### Design Spezifikation
 * [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/EAeGxd#Inspector)
