@@ -32,17 +32,13 @@ Die Komponente hat folgende Zustände:
 ![Darstellung der Komponente Primary Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-website-documentation/master/documentation/components/button/images/button_primary.png 'class: image hide')
 
 #### Design Spezifikation
-* [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/EAeGxd#Inspector)
-* [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/j14rem#Inspector)
-* [On-Click](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/dAgjdL#Inspector)
-* [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/zJyKkM#Inspector)
-* [Default](https://www.sketch.com/s/90164eef-96b8-487f-be99-e61e0bf7916d/a/34x0Yw#Inspector 'class: hide')
-* [Hover](https://www.sketch.com/s/90164eef-96b8-487f-be99-e61e0bf7916d/a/rvrZPP#Inspector 'class: hide')
-* [On-Click](https://www.sketch.com/s/90164eef-96b8-487f-be99-e61e0bf7916d/a/ndDbPk#Inspector 'class: hide')
-* [Disabled](https://www.sketch.com/s/90164eef-96b8-487f-be99-e61e0bf7916d/a/QJ1e3Y#Inspector 'class: hide')
+* Default: [Standard](https://www.sketch.com/s/90164eef-96b8-487f-be99-e61e0bf7916d/a/34x0Yw#Inspector), [Lean](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/EAeGxd#Inspector)
+* Hover: [Standard](https://www.sketch.com/s/90164eef-96b8-487f-be99-e61e0bf7916d/a/rvrZPP#Inspector), [Lean](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/j14rem#Inspector)
+* On-Click: [Standard](https://www.sketch.com/s/90164eef-96b8-487f-be99-e61e0bf7916d/a/ndDbPk#Inspector), [Lean](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/dAgjdL#Inspector)
+* Disabled: [Standard](https://www.sketch.com/s/90164eef-96b8-487f-be99-e61e0bf7916d/a/QJ1e3Y#Inspector), [Lean](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/zJyKkM#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/button)
+* SBB Angular Component Library: [Standard](https://sbb-angular.app.sbb.ch/public/components/button), [Lean](https://sbb-angular.app.sbb.ch/business/components/button)
 
 ### 4.2 Alternative Primary Button
 ![Darstellung der Komponente Alternativer Primary Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/button/images/button_primary_alternative.png 'class: image')
