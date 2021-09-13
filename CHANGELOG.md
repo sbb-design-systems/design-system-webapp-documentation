@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.6.1](https://github.com/sbb-design-systems/design-system-webapp-documentation/compare/v1.6.0...v1.6.1) (2021-09-13)
+
+
+### Bug Fixes
+
+* correct link to image for buttonbar example ([1e1fa15](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/1e1fa1514f4795a0dde42e8f41abd477ca0eacfd))
+* correct table header design for sorting ([70b5a73](https://github.com/sbb-design-systems/design-system-webapp-documentation/commit/70b5a7359c1ad04cb4982d833e90318f6c7ad0a9))
+
 ## [1.6.0](https://github.com/sbb-design-systems/design-system-webapp-documentation/compare/v1.5.0...v1.6.0) (2021-06-03)
 
 
