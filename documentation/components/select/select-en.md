@@ -21,11 +21,12 @@
 ## 4. Variants and statuses
 The component has the following statuses:
 * Default
-* Hinted
+* Placeholder
 * Focused
 * Disabled
 * Error
 * Mandatory
+* Readonly
 * Expanded
 
 ### 4.1 Standard
@@ -33,11 +34,12 @@ The component has the following statuses:
 
 #### Design specification
 * [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/5ynoRd#Inspector)
-* [Hinted](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/v88vv84#Inspector)
+* [Placeholder](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/v88vv84#Inspector)
 * [Focused](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/bDLaGj#Inspector)
 * [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/Wjdn2k#Inspector)
 * [Error](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/3LoxWm#Inspector)
 * [Mandatory](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/4aabbaD#Inspector)
+* [Mandatory](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/DPqYrZW#Inspector)
 * [Expanded](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/r79r5A#Inspector)
 * [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/nKQDZl#Inspector)
 * [Active](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/QqD1Mb#Inspector)
