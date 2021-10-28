@@ -52,7 +52,7 @@ The component has the following statuses:
 * [Error](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/r79reA#Inspector)
 
 ### 4.3 Clearable
-![Image of the text field component with possibility to clear the value by one click](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/textfield/images/textfield_clearable.png 'class: image')
+![Image of the text field component with possibility to clear the value by one click](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/textfield/images/Textfield_Clearable.png 'class: image')
 
 #### Design spezification
 * [Empty](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/zxWKVEo#Inspector)
