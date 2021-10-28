@@ -43,10 +43,18 @@ Das Element hat folgende Zustände:
 
 ### 4.2 Passworteingabe
 ![Darstellung der Komponente Textfeld zur Passworteingabe](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/textfield/images/textfield_password.png 'class: image')
-* Das Eingabefeld in der Ausprägung «Passwort» stellt keinen Zustand «Hinted» zur Verfügung.
+* Das Eingabefeld in der Ausprägung «Passwort» stellt keinen Zustand «Placeholder» zur Verfügung.
 
 #### Design Spezifikation
 * [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/bDLaWj#Inspector)
 * [Focused](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/WjdnLk#Inspector)
 * [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/3Loxjm#Inspector)
 * [Error](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/r79reA#Inspector)
+
+### 4.3 Löschbar
+![Darstellung der Komponente Textfeld mit der Möglichkeit zu direktem Löschen des Werts](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/textfield/images/textfield_clearable.png 'class: image')
+
+#### Design Spezifikation
+* [Empty](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/zxWKVEo#Inspector)
+* [Value](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/ZOlnaWx#Inspector)
+* [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/JnoJxzG#Inspector)

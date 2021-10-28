@@ -43,10 +43,18 @@ The component has the following statuses:
 
 ### 4.2 Password entry
 ![Image of the text field component in the password entry variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/textfield/images/textfield_password.png 'class: image')
-* The entry field in the ‘password’ variant does not provide a ‘hinted’ status.
+* The entry field in the ‘password’ variant does not provide a ‘Placeholder’ status.
 
 #### Design specification
 * [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/bDLaWj#Inspector)
 * [Focused](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/WjdnLk#Inspector)
 * [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/3Loxjm#Inspector)
 * [Error](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/r79reA#Inspector)
+
+### 4.3 Clearable
+![Image of the text field component with possibility to clear the value by one click](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/textfield/images/textfield_clearable.png 'class: image')
+
+#### Design spezification
+* [Empty](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/zxWKVEo#Inspector)
+* [Value](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/ZOlnaWx#Inspector)
+* [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/JnoJxzG#Inspector)
