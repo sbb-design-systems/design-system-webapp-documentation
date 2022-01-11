@@ -31,7 +31,7 @@ The component has the following statuses:
 * [Default](https://www.sketch.com/s/36ab4f9f-f7f8-436e-9d7e-0f2088e52e04/a/L0b3V3y#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/table)
 
 ### 4.2 Sortable
 This variant has the following statuses:
@@ -44,7 +44,7 @@ This variant has the following statuses:
 * [Default](https://www.sketch.com/s/36ab4f9f-f7f8-436e-9d7e-0f2088e52e04/a/7yV3j3Y#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/table)
 
 ### 4.3 Groupable
 ![Image of the table component in the variant groupable](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/table/images/Table_Groupable.png 'class: image')
@@ -53,7 +53,7 @@ This variant has the following statuses:
 * [Default](https://www.sketch.com/s/36ab4f9f-f7f8-436e-9d7e-0f2088e52e04/a/ygLDjDq#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/table)
 
 ### 4.4 Selectable
 This variant has the following statuses:
@@ -67,7 +67,7 @@ This variant has the following statuses:
 * [Default](https://www.sketch.com/s/36ab4f9f-f7f8-436e-9d7e-0f2088e52e04/a/9P53z3p#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/table)
 
 ### 4.5 Filterable
 This variant has the following statuses:
@@ -84,7 +84,7 @@ This variant has the following statuses:
 * [Default](https://www.sketch.com/s/36ab4f9f-f7f8-436e-9d7e-0f2088e52e04/a/PGRjqjP#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/table)
 
 ### 4.6 Inline actions
 ![Image of the table component in the variant with inline actions](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/table/images/Table_Inline_Actions.png 'class: image')
@@ -98,7 +98,7 @@ This variant has the following statuses:
 * [Default](https://www.sketch.com/s/36ab4f9f-f7f8-436e-9d7e-0f2088e52e04/a/g07K3Ka#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/table)
 
 ### 4.7 Batch actions
 ![Image of the table component in the variant with batch actions](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/table/images/Table_Batch_Actions.png 'class: image')
@@ -113,7 +113,7 @@ This variant has the following statuses:
 * [Default](https://www.sketch.com/s/36ab4f9f-f7f8-436e-9d7e-0f2088e52e04/a/zxl7l35#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/table)
 
 
 ## 5. Example application

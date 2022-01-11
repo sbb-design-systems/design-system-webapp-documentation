@@ -39,7 +39,7 @@ The component has the following statuses:
 * [Readonly](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/AxL1rj4#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/field)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/form-field)
 
 ### 4.2 Password entry
 ![Image of the text field component in the password entry variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/textfield/images/textfield_password.png 'class: image')

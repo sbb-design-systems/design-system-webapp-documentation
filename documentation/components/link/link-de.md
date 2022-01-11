@@ -28,7 +28,7 @@ Die Komponente hat folgende Zustände:
 * [On-Click](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/mYPKWz#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/links)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/button)
 
 ## 4.2 Nach Formularelementen
 ![Darstellung der Komponente Link in Formularen](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/link/images/link_form.png 'class: image')
@@ -39,4 +39,4 @@ Die Komponente hat folgende Zustände:
 * [On-Click](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/AOZR1z#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/links)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/button)

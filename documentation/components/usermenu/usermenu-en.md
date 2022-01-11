@@ -31,7 +31,7 @@ The component has the following statuses:
 * [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/j14rq0#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/usermenu)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/usermenu)
 
 ### 4.2 Role selection
 ![Image of the user menu component with role selection](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/usermenu/images/Usermenu_Rollenauswahl.png 'class: image')
@@ -40,4 +40,4 @@ The component has the following statuses:
 * [Expanded](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/dAgjqZ#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/usermenu)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/usermenu)

@@ -32,7 +32,7 @@ The component has the following statuses:
 *   [Active](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/MVmMnw#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/autocomplete)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/autocomplete)
 
 ### 4.2 With hit display
 As an option to the standard variant, this variant can be used when an auto-completion list always contains more than the maximum ten hits shown.
@@ -43,7 +43,7 @@ As an option to the standard variant, this variant can be used when an auto-comp
 *   [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/bDLaKJ#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/autocomplete)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/autocomplete)
 
 ### 4.3 With static entries
 ![Image of the autocompletion component with static entries](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/autocompletion/images/Autocompletion_Static.png 'class: image')
@@ -53,4 +53,4 @@ As an option to the standard variant, this variant can be used when an auto-comp
 * [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/3LoxEr#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/autocomplete)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/autocomplete)

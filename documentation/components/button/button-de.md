@@ -35,7 +35,7 @@ Die Komponente hat folgende Zustände:
 * [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/zJyKkM#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/button)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/button)
 
 ### 4.2 Alternative Primary Button
 ![Darstellung der Komponente Alternativer Primary Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/button/images/button_primary_alternative.png 'class: image')
@@ -47,7 +47,7 @@ Die Komponente hat folgende Zustände:
 * [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/47o5kD#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/button)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/button)
 
 ### 4.3 Secondary Button
 ![Darstellung der Komponente Secondary Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/button/images/Button_Secondary.png 'class: image')
@@ -59,7 +59,7 @@ Die Komponente hat folgende Zustände:
 * [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/mYPK0P#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/button)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/button)
 
 ### 4.4 Ghost Button
 ![Darstellung der Komponente Ghost Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/button/images/button_ghost.png 'class: image')
@@ -71,7 +71,7 @@ Die Komponente hat folgende Zustände:
 * [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/0KA7dG#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/button)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/button)
 
 ### 4.5 Icon Button
 ![Darstellung der Komponente Icon Button](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/button/images/Button_Icon.png 'class: image')
@@ -85,7 +85,7 @@ Die Komponente hat folgende Zustände:
 * Beim Hover über einen Icon Button sollte ein [Tooltip](https://digital.sbb.ch/de/webapps/components/tooltip) verwendet werden, um die dahinterliegende Aktion klarer zu machen.
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/button)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/button)
 
 ### 4.6 Mehrere Aktionen
 ![Darstellung der Komponente Button bei dem mehrere Aktionen hinterlegt sind](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/button/images/Button_More_Actions.png 'class: image')

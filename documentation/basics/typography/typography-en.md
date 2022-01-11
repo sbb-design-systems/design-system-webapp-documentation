@@ -21,7 +21,7 @@ The font styles defined here form the basis of web applications and their compon
 
 #### Specification
 * [Design](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/lVLdvo#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography)
 
 
 ### 2.2 Heading H2
@@ -31,7 +31,7 @@ The font styles defined here form the basis of web applications and their compon
 
 #### Specification
 * [Design](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/kpqxJO#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography)
 
 
 ### 2.3 Heading H3
@@ -41,7 +41,7 @@ The font styles defined here form the basis of web applications and their compon
 
 #### Specification
 * [Design](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/ow9eGn#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography)
 
 
 ### 2.4 Heading H4
@@ -51,7 +51,7 @@ The font styles defined here form the basis of web applications and their compon
 
 #### Specification
 * [Design](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/RLj50Q#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography)
 
 
 ### 2.5 Body copy
@@ -61,7 +61,7 @@ The font styles defined here form the basis of web applications and their compon
 
 #### Specification
 * [Design](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/1wdaka#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography)
 
 
 ### 2.6 Link
@@ -71,7 +71,7 @@ The font styles defined here form the basis of web applications and their compon
 
 #### Specification
 * [Design](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/pqPOkr#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography)
 
 
 ### 2.7 Table header
@@ -88,7 +88,7 @@ This style has the following statuses:
 * [Sorted](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/K17VlA#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography)
 
 
 ### 2.8 Table subtitle
@@ -105,7 +105,7 @@ This style has the following statuses:
 * [Sorted](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/GmwL0R8#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography)
 
 
 ### 2.9 Table rowtitle
@@ -113,7 +113,7 @@ This style has the following statuses:
 
 #### Specification
 * [Design](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/qLgDoV#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography)
 
 
 ### 2.10 Table data
@@ -121,4 +121,4 @@ This style has the following statuses:
 
 #### Specification
 * [Design](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/LpyKkl#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography)
