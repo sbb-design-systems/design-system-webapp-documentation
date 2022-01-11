@@ -45,7 +45,7 @@ The component has the following statuses:
 * [Active](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/QqD1Mb#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/select)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/select?variant=lean)
 
 ### 4.2 Multiple choice 
 ![Image of the select component with multiple choice](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/select/images/select_multi.png 'class: image')
@@ -56,7 +56,7 @@ The component has the following statuses:
 * [Expanded Autocomplete](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/j14rpb#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/select)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/select?variant=lean)
 
 ### 4.3 Grouped single choice
 ![Image of the select component with grouped entries](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/select/images/Select_Grouped_Single.png 'class: image')
@@ -66,7 +66,7 @@ The component has the following statuses:
 * [Expanded Tree](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/m4Ye4w#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/select)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/select?variant=lean)
 
 ### 4.4 Grouped multiple choice
 ![Image of the select component with grouped entries and multiple choice](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/select/images/Select_Grouped_Multi.png 'class: image')
@@ -76,4 +76,4 @@ The component has the following statuses:
 * [Expanded Tree Checkbox](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/ZZVnLv#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/select)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/select?variant=lean)

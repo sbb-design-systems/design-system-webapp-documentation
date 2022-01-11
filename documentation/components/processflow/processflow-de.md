@@ -25,4 +25,4 @@ Die Komponente hat folgende Zustände:
 * [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/yZ9QMa#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/processflow)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/processflow?variant=lean)

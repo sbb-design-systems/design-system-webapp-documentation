@@ -31,7 +31,7 @@ Die Komponente hat folgende Zustände:
 * [Default](https://www.sketch.com/s/36ab4f9f-f7f8-436e-9d7e-0f2088e52e04/a/L0b3V3y#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/table?variant=lean)
 
 ### 4.2 Sortierbar
 Diese Ausprägung hat folgende Zustände:
@@ -44,7 +44,7 @@ Diese Ausprägung hat folgende Zustände:
 * [Default](https://www.sketch.com/s/36ab4f9f-f7f8-436e-9d7e-0f2088e52e04/a/7yV3j3Y#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/table?variant=lean)
 
 ### 4.3 Gruppierbar
 ![Darstellung der Komponente Tabelle in der Ausprägung Gruppierbar](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/table/images/Table_Groupable.png 'class: image')
@@ -53,7 +53,7 @@ Diese Ausprägung hat folgende Zustände:
 * [Default](https://www.sketch.com/s/36ab4f9f-f7f8-436e-9d7e-0f2088e52e04/a/ygLDjDq#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/table?variant=lean)
 
 ### 4.4 Selektierbar
 Diese Ausprägung hat folgende Zustände:
@@ -67,7 +67,7 @@ Diese Ausprägung hat folgende Zustände:
 * [Default](https://www.sketch.com/s/36ab4f9f-f7f8-436e-9d7e-0f2088e52e04/a/9P53z3p#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/table?variant=lean)
 
 ### 4.5 Filtrierbar
 Diese Ausprägung hat folgende Zustände:
@@ -84,7 +84,7 @@ Diese Ausprägung hat folgende Zustände:
 * [Default](https://www.sketch.com/s/36ab4f9f-f7f8-436e-9d7e-0f2088e52e04/a/PGRjqjP#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/table?variant=lean)
 
 ### 4.6 Inline Aktionen
 ![Darstellung der Komponente Tabelle in der Ausprägung mit Inline Aktionen](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/table/images/Table_Inline_Actions.png 'class: image')
@@ -98,7 +98,7 @@ Diese Ausprägung hat folgende Zustände:
 * [Default](https://www.sketch.com/s/36ab4f9f-f7f8-436e-9d7e-0f2088e52e04/a/g07K3Ka#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/table?variant=lean)
 
 ### 4.7 Übergreifende Aktionen
 ![Darstellung der Komponente Tabelle in der Ausprägung mit übergreifenden Aktionen](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/table/images/Table_Batch_Actions.png 'class: image')
@@ -113,7 +113,7 @@ Diese Ausprägung hat folgende Zustände:
 * [Default](https://www.sketch.com/s/36ab4f9f-f7f8-436e-9d7e-0f2088e52e04/a/zxl7l35#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/table)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/table?variant=lean)
 
 
 ## 5. Beispielanwendung

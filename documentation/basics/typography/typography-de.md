@@ -21,7 +21,7 @@ Die hier definierten Schriftstile bilden die Basis von Webapplikationen und dere
 
 #### Spezifikation
 * [Design](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/lVLdvo#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography?variant=lean)
 
 
 ### 2.2 Überschrift H2
@@ -31,7 +31,7 @@ Die hier definierten Schriftstile bilden die Basis von Webapplikationen und dere
 
 #### Spezifikation
 * [Design](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/kpqxJO#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography?variant=lean)
 
 
 ### 2.3 Überschrift H3
@@ -41,7 +41,7 @@ Die hier definierten Schriftstile bilden die Basis von Webapplikationen und dere
 
 #### Spezifikation
 * [Design](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/ow9eGn#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography?variant=lean)
 
 
 ### 2.4 Überschrift H4
@@ -51,7 +51,7 @@ Die hier definierten Schriftstile bilden die Basis von Webapplikationen und dere
 
 #### Spezifikation
 * [Design](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/RLj50Q#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography?variant=lean)
 
 
 ### 2.5 Fliesstext (Copy)
@@ -61,7 +61,7 @@ Die hier definierten Schriftstile bilden die Basis von Webapplikationen und dere
 
 #### Spezifikation
 * [Design](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/1wdaka#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography?variant=lean)
 
 
 ### 2.6 Link
@@ -71,7 +71,7 @@ Die hier definierten Schriftstile bilden die Basis von Webapplikationen und dere
 
 #### Spezifikation
 * [Design](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/pqPOkr#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography?variant=lean)
 
 
 ### 2.7 Tabellenheader
@@ -88,7 +88,7 @@ Dieser Stil hat die folgende Zustände:
 * [Sorted](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/K17VlA#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography?variant=lean)
 
 
 ### 2.8 Tabellenheader Untertitel
@@ -105,7 +105,7 @@ Dieser Stil hat die folgende Zustände:
 * [Sorted](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/GmwL0R8#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography?variant=lean)
 
 
 ### 2.9 Tabellenzeilentitel
@@ -113,7 +113,7 @@ Dieser Stil hat die folgende Zustände:
 
 #### Spezifikation
 * [Design](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/qLgDoV#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography?variant=lean)
 
 
 ### 2.10 Tabellendaten
@@ -121,4 +121,4 @@ Dieser Stil hat die folgende Zustände:
 
 #### Spezifikation
 * [Design](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/LpyKkl#Inspector)
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/introduction/typography)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/introduction/typography?variant=lean)

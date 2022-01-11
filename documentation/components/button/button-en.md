@@ -35,7 +35,7 @@ The component has the following statuses:
 * [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/zJyKkM#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/button)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/button?variant=lean)
 
 ### 4.2 Alternative primary button
 ![Image of the alternative primary button component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/button/images/button_primary_alternative.png 'class: image')
@@ -47,7 +47,7 @@ The component has the following statuses:
 * [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/47o5kD#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/button)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/button?variant=lean)
 
 ### 4.3 Secondary Button
 ![Image of the secondary button component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/button/images/Button_Secondary.png 'class: image')
@@ -59,7 +59,7 @@ The component has the following statuses:
 * [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/mYPK0P#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/button)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/button?variant=lean)
 
 ### 4.4 Ghost Button
 ![Image of the ghost button component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/button/images/button_ghost.png 'class: image')
@@ -71,7 +71,7 @@ The component has the following statuses:
 * [Disabled](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/0KA7dG#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/button)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/button?variant=lean)
 
 ### 4.5 Icon Button
 ![Image of the icon button component](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/button/images/Button_Icon.png 'class: image')
@@ -85,7 +85,7 @@ The component has the following statuses:
 * When hovering over an icon button, a [tooltip](https://digital.sbb.ch/en/webapps/components/tooltip) should be used to make the underlying action clearer.
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/button)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/button?variant=lean)
 
 ### 4.6 Multiple actions
 ![Image of the button component where multiple actions are available](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/button/images/Button_More_Actions.png 'class: image')

@@ -32,7 +32,7 @@ This variant also has the following statuses:
 * [Expanded](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/MVmMKw#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/contextmenu)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/menu?variant=lean)
 
 ### 4.2 Icon
 This variant also has the following statuses:
@@ -50,7 +50,7 @@ This variant also has the following statuses:
 * [Expanded Hover Above](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/3LoxJr#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/contextmenu)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/menu?variant=lean)
 
 ### 4.3 Sorting
 This variant also has the following statuses:
@@ -68,4 +68,4 @@ This variant also has the following statuses:
 * [Active](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/nKQDWd#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/contextmenu)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/menu?variant=lean)

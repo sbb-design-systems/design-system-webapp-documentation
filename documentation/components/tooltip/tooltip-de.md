@@ -38,4 +38,4 @@ Die Komponente hat folgende Zustände:
 * [Visible Right](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/4a4dl7Z#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/tooltip)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/tooltip?variant=lean)

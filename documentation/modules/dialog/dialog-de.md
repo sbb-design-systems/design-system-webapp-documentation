@@ -48,7 +48,7 @@ Diese Ausprägung hat folgende Zustände:
 * Glass: [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/vjRQvb#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/dialog)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/dialog?variant=lean)
 
 ### 4.2 Complex (Formulare)
 Diese Ausprägung hat folgende Zustände:
@@ -66,4 +66,4 @@ Diese Ausprägung hat folgende Zustände:
 * [Valid / Not Valid](https://www.sketch.com/s/36ab4f9f-f7f8-436e-9d7e-0f2088e52e04/a/ZOW5MWJ#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://sbb-angular.app.sbb.ch/business/components/dialog)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/dialog?variant=lean)
