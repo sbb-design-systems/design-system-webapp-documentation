@@ -44,4 +44,4 @@ Die Komponente hat folgende Zustände:
 * [Disabled Unchecked](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/7P1aG8#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/checkbox)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/checkbox?variant=lean)

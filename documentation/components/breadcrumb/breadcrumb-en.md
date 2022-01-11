@@ -25,4 +25,4 @@ The component has the following statuses:
 *   [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/xz0Q7J#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/breadcrumb)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/breadcrumb?variant=lean)

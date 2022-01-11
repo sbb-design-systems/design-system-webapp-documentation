@@ -47,7 +47,7 @@ The component has the following statuses:
 * [Readonly](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/jgq7qy0#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/datepicker)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/datepicker?variant=lean)
 
 
 ### 4.2 With scroll function
@@ -64,7 +64,7 @@ The component has the following statuses:
 * [Readonly](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/dlq0qEZ#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/datepicker)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/datepicker?variant=lean)
 
 ### 4.3 Date range
 * Two date pickers are combined to select a date range.
@@ -85,7 +85,7 @@ The component has the following statuses:
 * [Readonly](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/zxO7OYW#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/datepicker)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/datepicker?variant=lean)
 
 ### 4.5 Calender Layer (date picker)
 ![Image of the date selection component with date picker](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/datepicker/images/Dateinput_Picker.png 'class: image')
@@ -105,4 +105,4 @@ The tab sequence within the calender layer is defined as follows:
 * [Date range beyond a month](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/ZZVnjv#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/datepicker)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/datepicker?variant=lean)

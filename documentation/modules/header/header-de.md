@@ -23,7 +23,7 @@ Diese Ausprägung hat folgende Zustände:
 * [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/e0ldqj#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/header-lean)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/header-lean?variant=lean)
 
 ### 4.2 Submenu
 Diese Ausprägung hat folgende Zustände:
@@ -39,7 +39,7 @@ Diese Ausprägung hat folgende Zustände:
 * [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/owMDq3#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/header-lean)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/header-lean?variant=lean)
 
 ### 4.3 Suite
 Diese Ausprägung hat folgende Zustände:
@@ -53,4 +53,4 @@ Diese Ausprägung hat folgende Zustände:
 * [Expanded](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/8jGL8O#Inspector)
 
 #### Code Spezifikation
-* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/header-lean)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/header-lean?variant=lean)

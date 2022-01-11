@@ -25,7 +25,7 @@
 *   [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/0KA7rO#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/loading)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/loading?variant=lean)
 
 ### 4.2 Small
 ![Image of the loading indicator in the small variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/loadingindicator/images/Loadingindicator_Small.png 'class: image')
@@ -34,7 +34,7 @@
 *   [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/lVRG54#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/loading)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/loading?variant=lean)
 
 ### 4.3 Medium 
 ![Image of the loading indicator component in the medium variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/loadingindicator/images/Loadingindicator_Medium.png 'class: image')
@@ -43,7 +43,7 @@
 *   [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/kpKQ59#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/loading)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/loading?variant=lean)
 
 ### 4.4 Big
 ![Image of the loading indicator component in the big variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/loadingindicator/images/Loadingindicator_Big.png 'class: image')
@@ -52,4 +52,4 @@
 *   [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/owMD5x#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/loading)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/loading?variant=lean)

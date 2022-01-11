@@ -25,7 +25,7 @@ The component has the following statuses:
 * [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/RLyo3x#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/notification)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/notification?variant=lean)
 
 ### 4.2 Notification
 ![Image of the message component in the notification variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/notification/images/notification_information.png 'class: image')
@@ -34,7 +34,7 @@ The component has the following statuses:
 * [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/1wVPln#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/notification)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/notification?variant=lean)
 
 ### 4.3 Warning 
 ![Image of the message component in the warning variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/notification/images/notification_warning.png 'class: image')
@@ -43,7 +43,7 @@ The component has the following statuses:
 * [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/pqYK5G#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/notification)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/notification?variant=lean)
 
 ### 4.4 Error 
 ![Image of the message component in the error variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/notification/images/notification_error.png 'class: image')
@@ -52,7 +52,7 @@ The component has the following statuses:
 * [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/VPEo8A#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/notification)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/notification?variant=lean)
 
 ### 4.5 Error with jump marker 
 ![Image of the message component in the error with jump marker variant](https://raw.githubusercontent.com/sbb-design-systems/design-system-webapp-documentation/master/documentation/components/notification/images/notification_link.png 'class: image')
@@ -66,7 +66,7 @@ The component has the following statuses:
 * [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/YzZ58m#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/notification)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/notification?variant=lean)
 
 
 ### 4.6 Notification Toast
@@ -74,4 +74,4 @@ The component has the following statuses:
 * The display duration until automatic disappearance can now be defined according to the use case. To this end, toasts can also be configured not to disappear automatically.
 
 #### Code specification
-* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/notification-toast)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/notification-toast?variant=lean)

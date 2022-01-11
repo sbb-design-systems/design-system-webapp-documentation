@@ -32,4 +32,4 @@ The component has the following statuses:
 *   [Expanded](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/gk1ZJz#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/accordion)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/accordion?variant=lean)

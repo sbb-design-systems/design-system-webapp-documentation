@@ -23,7 +23,7 @@ This variant has following statuses:
 * [Default](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/e0ldqj#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/header-lean)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/header-lean?variant=lean)
 
 ### 4.2 Submenu
 This variant has following statuses:
@@ -39,7 +39,7 @@ This variant has following statuses:
 * [Hover](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/owMDq3#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/header-lean)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/header-lean?variant=lean)
 
 ### 4.3 Suite
 This variant has following statuses:
@@ -53,4 +53,4 @@ This variant has following statuses:
 * [Expanded](https://www.sketch.com/s/271524a1-2f86-4c84-9491-671e5ccd927f/a/8jGL8O#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/header-lean)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/header-lean?variant=lean)

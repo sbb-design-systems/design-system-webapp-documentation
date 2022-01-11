@@ -31,4 +31,4 @@ The component has the following statuses:
 * [Focused](https://www.sketch.com/s/58b25e4c-bf9c-4f74-973f-503538fcbea2/a/gk1ZGz#Inspector)
 
 #### Code specification
-* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/chips)
+* [SBB Angular Component Library](https://angular.app.sbb.ch/angular/components/chips?variant=lean)
